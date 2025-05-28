@@ -1,0 +1,6 @@
+@SpongPopBakery_HostAddress = http://localhost:5121
+
+GET {{SpongPopBakery_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

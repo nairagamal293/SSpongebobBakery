@@ -1,0 +1,1464 @@
+{
+  "Version": 1,
+  "Hash": "st2/oZb1+vQw2wKEH5ls7BbPskw57B9JpJPld1etLxU=",
+  "Source": "SpongPopBakery",
+  "BasePath": "_content/SpongPopBakery",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SpongPopBakery\\wwwroot",
+      "Source": "SpongPopBakery",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "35esyc9uuu",
+      "Integrity": "aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2)#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mw061gk7wl",
+      "Integrity": "6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9uwdzkah8",
+      "Integrity": "OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpnuypqsld",
+      "Integrity": "bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\download (2).jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/categories/download (2)#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mw061gk7wl",
+      "Integrity": "6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\categories\\download (2).jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0kqkvnuemh",
+      "Integrity": "kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c7rb4tq4kn",
+      "Integrity": "eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9uwdzkah8",
+      "Integrity": "OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sf4n3hgwfo",
+      "Integrity": "yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fwwh6ojerc",
+      "Integrity": "z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pmfloetf5j",
+      "Integrity": "YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "290ty3vw3m",
+      "Integrity": "huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mkkfk6kkyp",
+      "Integrity": "Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg"
+    },
+    {
+      "Identity": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "SourceId": "SpongPopBakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\",
+      "BasePath": "_content/SpongPopBakery",
+      "RelativePath": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rj4wpmyg6t",
+      "Integrity": "+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.35esyc9uuu.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:13:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "35esyc9uuu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:13:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).mw061gk7wl.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mw061gk7wl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:50:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:50:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9uwdzkah8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.wpnuypqsld.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpnuypqsld"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/download (2).jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/download (2).mw061gk7wl.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mw061gk7wl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/download (2).jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.0kqkvnuemh.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kqkvnuemh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.c7rb4tq4kn.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:26:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c7rb4tq4kn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:26:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:30:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:30:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9uwdzkah8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:15:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.sf4n3hgwfo.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:15:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sf4n3hgwfo"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.fwwh6ojerc.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:35:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwwh6ojerc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:35:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:27:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.pmfloetf5j.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:27:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmfloetf5j"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.290ty3vw3m.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:17:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "290ty3vw3m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:17:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.mkkfk6kkyp.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mkkfk6kkyp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:19:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.rj4wpmyg6t.jpeg",
+      "AssetFile": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:19:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rj4wpmyg6t"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="
+        }
+      ]
+    }
+  ]
+}

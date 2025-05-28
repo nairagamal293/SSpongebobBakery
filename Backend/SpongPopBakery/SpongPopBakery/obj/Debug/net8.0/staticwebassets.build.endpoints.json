@@ -1,0 +1,1154 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.35esyc9uuu.jpeg",
+      "AssetFile": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:13:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "35esyc9uuu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "AssetFile": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:13:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "AssetFile": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:43:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).mw061gk7wl.jpeg",
+      "AssetFile": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:43:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mw061gk7wl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "AssetFile": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:50:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg",
+      "AssetFile": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 09:50:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9uwdzkah8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "AssetFile": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:18:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.wpnuypqsld.jpeg",
+      "AssetFile": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:18:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpnuypqsld"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/download (2).jpeg",
+      "AssetFile": "uploads/categories/download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/download (2).mw061gk7wl.jpeg",
+      "AssetFile": "uploads/categories/download (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mw061gk7wl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/download (2).jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.0kqkvnuemh.jpeg",
+      "AssetFile": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:31:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kqkvnuemh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
+      "AssetFile": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:31:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.c7rb4tq4kn.jpeg",
+      "AssetFile": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:26:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c7rb4tq4kn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "AssetFile": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:26:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "AssetFile": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:30:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg",
+      "AssetFile": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:30:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9uwdzkah8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "AssetFile": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:15:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.sf4n3hgwfo.jpeg",
+      "AssetFile": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:15:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sf4n3hgwfo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.fwwh6ojerc.jpeg",
+      "AssetFile": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:35:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwwh6ojerc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "AssetFile": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:35:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "AssetFile": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:27:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.pmfloetf5j.jpeg",
+      "AssetFile": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:27:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmfloetf5j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.290ty3vw3m.jpeg",
+      "AssetFile": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:17:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "290ty3vw3m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "AssetFile": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:17:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg",
+      "AssetFile": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.mkkfk6kkyp.jpeg",
+      "AssetFile": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 08:33:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mkkfk6kkyp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "AssetFile": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:19:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.rj4wpmyg6t.jpeg",
+      "AssetFile": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:19:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rj4wpmyg6t"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg"
+        }
+      ]
+    }
+  ]
+}

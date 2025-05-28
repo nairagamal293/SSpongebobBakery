@@ -1,0 +1,172 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.35esyc9uuu.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"35esyc9uuu"},{"Name":"integrity","Value":"sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94402"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:13:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94402"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:13:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"130333"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 09:43:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).mw061gk7wl.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mw061gk7wl"},{"Name":"integrity","Value":"sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"130333"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 09:43:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109050"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 09:50:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k9uwdzkah8"},{"Name":"integrity","Value":"sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe \u2013 A Comforting British Favourite with Buttery Pastry.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109050"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 09:50:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80266"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:18:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.wpnuypqsld.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wpnuypqsld"},{"Name":"integrity","Value":"sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_\u0645\u0646\u0627\u0642\u064A\u0634 \u0645\u0634\u0643\u0644\u0629.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80266"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:18:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/download (2).jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\download (2).jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"130333"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:33:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/download (2).mw061gk7wl.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\download (2).jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mw061gk7wl"},{"Name":"integrity","Value":"sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/download (2).jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"130333"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:33:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.0kqkvnuemh.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0kqkvnuemh"},{"Name":"integrity","Value":"sha256-kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78747"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:31:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"78747"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kKH8ofOYapD573fNI4oesS9qz7klVkrSRbQBHyHlkVk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:31:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.c7rb4tq4kn.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c7rb4tq4kn"},{"Name":"integrity","Value":"sha256-eBYEgfq4RTVUB\u002BAoeEGUxw11yAxTePFLOM6jCQ\u002BXjeE="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"134654"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eBYEgfq4RTVUB\u002BAoeEGUxw11yAxTePFLOM6jCQ\u002BXjeE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:26:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eBYEgfq4RTVUB\u002BAoeEGUxw11yAxTePFLOM6jCQ\u002BXjeE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"134654"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eBYEgfq4RTVUB\u002BAoeEGUxw11yAxTePFLOM6jCQ\u002BXjeE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:26:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109050"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:30:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k9uwdzkah8"},{"Name":"integrity","Value":"sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe \u2013 A Comforting British Favourite with Buttery Pastry.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109050"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:30:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"78143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:15:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.sf4n3hgwfo.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sf4n3hgwfo"},{"Name":"integrity","Value":"sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:15:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.fwwh6ojerc.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fwwh6ojerc"},{"Name":"integrity","Value":"sha256-z5Z2No2aKU11\u002BIYE9pXqbxBpLi1V7BOkYy4O8KEhA/s="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55380"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z5Z2No2aKU11\u002BIYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:35:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z5Z2No2aKU11\u002BIYE9pXqbxBpLi1V7BOkYy4O8KEhA/s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"55380"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z5Z2No2aKU11\u002BIYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:35:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YeJGi6p7CLIrg8\u002BxL\u002BHmUZ9l/d8VLyNtjTL5/pMb2gI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"129817"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YeJGi6p7CLIrg8\u002BxL\u002BHmUZ9l/d8VLyNtjTL5/pMb2gI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:27:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.pmfloetf5j.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pmfloetf5j"},{"Name":"integrity","Value":"sha256-YeJGi6p7CLIrg8\u002BxL\u002BHmUZ9l/d8VLyNtjTL5/pMb2gI="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"129817"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YeJGi6p7CLIrg8\u002BxL\u002BHmUZ9l/d8VLyNtjTL5/pMb2gI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:27:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.290ty3vw3m.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"290ty3vw3m"},{"Name":"integrity","Value":"sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID\u002BBH4="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza V\u00E1rios Sabores PNG Transparente.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"120047"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID\u002BBH4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:17:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID\u002BBH4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"120047"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID\u002BBH4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:17:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"61463"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:33:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.mkkfk6kkyp.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mkkfk6kkyp"},{"Name":"integrity","Value":"sha256-Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"61463"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Gj7k9Fn4UeCaFQzLB8eOu/nqkZ1yic0eeJgG9CcHnts=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:33:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BS8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"106526"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BS8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:19:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.rj4wpmyg6t.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rj4wpmyg6t"},{"Name":"integrity","Value":"sha256-\u002BS8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za\u0027atar Manakeesh (Vegan Zaatar Flatbread)_ \u0645\u0646\u0627\u0642\u064A\u0634 \u0632\u0639\u062A\u0631.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"106526"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BS8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 11:19:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
