@@ -37,11 +37,19 @@ namespace SpongPopBakery.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("DescriptionAr")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ImagePath")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NameAr")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -71,6 +79,10 @@ namespace SpongPopBakery.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("DescriptionAr")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ImagePath")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -79,6 +91,10 @@ namespace SpongPopBakery.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NameAr")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -134,10 +150,10 @@ namespace SpongPopBakery.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedAt = new DateTime(2025, 5, 28, 7, 14, 20, 283, DateTimeKind.Utc).AddTicks(6480),
+                            CreatedAt = new DateTime(2025, 5, 31, 7, 7, 22, 69, DateTimeKind.Utc).AddTicks(5732),
                             Email = "admin@bakery.com",
-                            PasswordHash = new byte[] { 232, 192, 100, 132, 172, 211, 12, 109, 239, 63, 146, 22, 178, 25, 37, 81, 88, 147, 35, 255, 56, 138, 144, 182, 234, 233, 228, 28, 27, 105, 106, 22, 196, 127, 31, 246, 225, 143, 239, 66, 248, 88, 11, 91, 32, 232, 36, 23, 164, 119, 80, 147, 206, 172, 250, 197, 51, 119, 128, 211, 59, 232, 72, 68 },
-                            PasswordSalt = new byte[] { 55, 77, 30, 138, 94, 248, 240, 125, 193, 227, 202, 219, 239, 9, 42, 83, 251, 156, 42, 19, 14, 26, 65, 111, 120, 32, 46, 103, 17, 153, 124, 68, 175, 253, 88, 189, 82, 16, 96, 47, 250, 124, 102, 213, 173, 161, 205, 37, 45, 225, 251, 89, 193, 81, 183, 212, 132, 189, 193, 77, 212, 81, 97, 217, 61, 136, 144, 9, 107, 120, 174, 80, 54, 121, 15, 253, 250, 190, 185, 173, 131, 138, 41, 184, 251, 41, 19, 2, 146, 68, 180, 98, 114, 250, 206, 61, 128, 68, 17, 122, 112, 56, 136, 107, 23, 174, 224, 1, 197, 108, 199, 10, 1, 18, 231, 140, 225, 49, 96, 153, 245, 213, 58, 63, 120, 115, 196, 34 },
+                            PasswordHash = new byte[] { 154, 151, 52, 85, 73, 245, 48, 178, 161, 158, 226, 76, 62, 96, 25, 111, 234, 161, 106, 174, 223, 110, 164, 224, 157, 87, 197, 169, 249, 172, 76, 16, 184, 199, 105, 30, 146, 155, 96, 250, 40, 41, 98, 126, 134, 92, 235, 146, 251, 19, 137, 144, 241, 166, 184, 97, 143, 159, 182, 126, 49, 214, 59, 177 },
+                            PasswordSalt = new byte[] { 165, 129, 120, 112, 16, 120, 30, 233, 194, 153, 161, 160, 64, 144, 88, 161, 30, 227, 178, 127, 142, 236, 170, 205, 84, 204, 203, 87, 67, 229, 65, 133, 223, 1, 171, 82, 121, 240, 221, 64, 191, 135, 87, 84, 211, 228, 107, 87, 142, 78, 244, 36, 68, 66, 223, 217, 216, 79, 97, 144, 26, 255, 38, 85, 236, 97, 244, 144, 246, 219, 82, 41, 152, 113, 160, 21, 39, 44, 74, 128, 63, 28, 70, 225, 4, 73, 133, 158, 77, 136, 23, 67, 72, 229, 201, 242, 252, 197, 8, 52, 131, 241, 88, 12, 204, 2, 43, 27, 1, 7, 216, 209, 99, 247, 94, 39, 190, 98, 61, 49, 115, 16, 28, 8, 251, 36, 210, 158 },
                             Role = "Admin",
                             Username = "admin"
                         });

@@ -3,8 +3,8 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.35esyc9uuu.jpeg",
-      "AssetFile": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "Route": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.6m3n0mo448.png",
+      "AssetFile": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17,39 +17,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "94402"
+          "Value": "329663"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\""
+          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:13:27 GMT"
+          "Value": "Wed, 28 May 2025 12:05:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "35esyc9uuu"
+          "Value": "6m3n0mo448"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="
+          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
         },
         {
           "Name": "label",
-          "Value": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg"
+          "Value": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
-      "AssetFile": "uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg",
+      "Route": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png",
+      "AssetFile": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,68 +62,31 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "94402"
+          "Value": "329663"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=\""
+          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:13:27 GMT"
+          "Value": "Wed, 28 May 2025 12:05:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs="
+          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
         }
       ]
     },
     {
-      "Route": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
-      "AssetFile": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "130333"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 09:43:46 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).mw061gk7wl.jpeg",
-      "AssetFile": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg",
+      "Route": "uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.1imbphcj48.png",
+      "AssetFile": "uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -136,39 +99,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "130333"
+          "Value": "168499"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\""
+          "Value": "\"V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 09:43:46 GMT"
+          "Value": "Wed, 28 May 2025 12:23:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mw061gk7wl"
+          "Value": "1imbphcj48"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="
+          "Value": "sha256-V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc="
         },
         {
           "Name": "label",
-          "Value": "uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg"
+          "Value": "uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
-      "AssetFile": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Route": "uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
+      "AssetFile": "uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -181,31 +144,31 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109050"
+          "Value": "168499"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+          "Value": "\"V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 09:50:22 GMT"
+          "Value": "Wed, 28 May 2025 12:23:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+          "Value": "sha256-V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc="
         }
       ]
     },
     {
-      "Route": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg",
-      "AssetFile": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Route": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.kxspsxcnf4.png",
+      "AssetFile": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -218,39 +181,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109050"
+          "Value": "262422"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 09:50:22 GMT"
+          "Value": "Sat, 31 May 2025 08:57:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k9uwdzkah8"
+          "Value": "kxspsxcnf4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
         },
         {
           "Name": "label",
-          "Value": "uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+          "Value": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
-      "AssetFile": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "Route": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
+      "AssetFile": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -263,31 +226,31 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80266"
+          "Value": "262422"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\""
+          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:18:15 GMT"
+          "Value": "Sat, 31 May 2025 08:57:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="
+          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
         }
       ]
     },
     {
-      "Route": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.wpnuypqsld.jpeg",
-      "AssetFile": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg",
+      "Route": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).2owo4btag5.jpeg",
+      "AssetFile": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -300,7 +263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80266"
+          "Value": "111924"
         },
         {
           "Name": "Content-Type",
@@ -308,25 +271,308 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=\""
+          "Value": "\"nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:18:15 GMT"
+          "Value": "Sat, 31 May 2025 09:18:32 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wpnuypqsld"
+          "Value": "2owo4btag5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo="
+          "Value": "sha256-nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw="
         },
         {
           "Name": "label",
-          "Value": "uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg"
+          "Value": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
+      "AssetFile": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:18:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.6ljip0pobi.png",
+      "AssetFile": "uploads/categories/8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qnw/Q9rkzEhCLv1lcRDP27GGosGu7isXG8IwEELLjRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:58:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ljip0pobi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qnw/Q9rkzEhCLv1lcRDP27GGosGu7isXG8IwEELLjRE="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png",
+      "AssetFile": "uploads/categories/8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qnw/Q9rkzEhCLv1lcRDP27GGosGu7isXG8IwEELLjRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 11:58:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qnw/Q9rkzEhCLv1lcRDP27GGosGu7isXG8IwEELLjRE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.png",
+      "AssetFile": "uploads/categories/b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOeUYI+bV6fdSMevmb9vmPOEkjWyORQXSkaxHkFHLX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pOeUYI+bV6fdSMevmb9vmPOEkjWyORQXSkaxHkFHLX0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.wnoy74jddk.png",
+      "AssetFile": "uploads/categories/b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pOeUYI+bV6fdSMevmb9vmPOEkjWyORQXSkaxHkFHLX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:27:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnoy74jddk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pOeUYI+bV6fdSMevmb9vmPOEkjWyORQXSkaxHkFHLX0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.lti0gqujst.png",
+      "AssetFile": "uploads/categories/c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:20:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lti0gqujst"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png",
+      "AssetFile": "uploads/categories/c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:20:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs="
         }
       ]
     },
@@ -413,6 +659,88 @@
       ]
     },
     {
+      "Route": "uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png",
+      "AssetFile": "uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbqDecsKfzdMFOVJ2JV8VfI/l5NM1jov33oirWK3KB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 13:53:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbqDecsKfzdMFOVJ2JV8VfI/l5NM1jov33oirWK3KB8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.psglio4i7d.png",
+      "AssetFile": "uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbqDecsKfzdMFOVJ2JV8VfI/l5NM1jov33oirWK3KB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 13:53:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "psglio4i7d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbqDecsKfzdMFOVJ2JV8VfI/l5NM1jov33oirWK3KB8="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png"
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.0kqkvnuemh.jpeg",
       "AssetFile": "uploads/products/0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg",
       "Selectors": [],
@@ -495,53 +823,8 @@
       ]
     },
     {
-      "Route": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.c7rb4tq4kn.jpeg",
-      "AssetFile": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134654"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:26:38 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c7rb4tq4kn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
-      "AssetFile": "uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg",
+      "Route": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png",
+      "AssetFile": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -554,68 +837,31 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "134654"
+          "Value": "184421"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=\""
+          "Value": "\"S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:26:38 GMT"
+          "Value": "Wed, 28 May 2025 12:34:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE="
+          "Value": "sha256-S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM="
         }
       ]
     },
     {
-      "Route": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
-      "AssetFile": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "109050"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:30:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.k9uwdzkah8.jpeg",
-      "AssetFile": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg",
+      "Route": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.zi617rt2i9.png",
+      "AssetFile": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -628,76 +874,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109050"
+          "Value": "184421"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=\""
+          "Value": "\"S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:30:30 GMT"
+          "Value": "Wed, 28 May 2025 12:34:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k9uwdzkah8"
+          "Value": "zi617rt2i9"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY="
+          "Value": "sha256-S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM="
         },
         {
           "Name": "label",
-          "Value": "uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg"
+          "Value": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
-      "AssetFile": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78143"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:15:57 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.sf4n3hgwfo.jpeg",
-      "AssetFile": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg",
+      "Route": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.erp64g0u0a.png",
+      "AssetFile": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -710,39 +919,322 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78143"
+          "Value": "203440"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=\""
+          "Value": "\"6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:15:57 GMT"
+          "Value": "Wed, 28 May 2025 12:35:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sf4n3hgwfo"
+          "Value": "erp64g0u0a"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw="
+          "Value": "sha256-6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A="
         },
         {
           "Name": "label",
-          "Value": "uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg"
+          "Value": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.fwwh6ojerc.jpeg",
-      "AssetFile": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "Route": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
+      "AssetFile": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:35:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.azjh3bojka.png",
+      "AssetFile": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 13:52:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "azjh3bojka"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
+      "AssetFile": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 13:52:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.dvlmhyo9sd.png",
+      "AssetFile": "uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x65YiriwZWbOw4aRhYZjZb06IBG2MJ7DiIisRt7CPIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 07:09:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dvlmhyo9sd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x65YiriwZWbOw4aRhYZjZb06IBG2MJ7DiIisRt7CPIU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png",
+      "AssetFile": "uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x65YiriwZWbOw4aRhYZjZb06IBG2MJ7DiIisRt7CPIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 07:09:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x65YiriwZWbOw4aRhYZjZb06IBG2MJ7DiIisRt7CPIU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.lti0gqujst.png",
+      "AssetFile": "uploads/products/76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 13:54:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lti0gqujst"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png",
+      "AssetFile": "uploads/products/76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 13:54:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.fwwh6ojerc.jpeg",
+      "AssetFile": "uploads/products/7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -767,7 +1259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:35:57 GMT"
+          "Value": "Wed, 28 May 2025 11:50:30 GMT"
         }
       ],
       "EndpointProperties": [
@@ -781,13 +1273,13 @@
         },
         {
           "Name": "label",
-          "Value": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg"
+          "Value": "uploads/products/7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg"
         }
       ]
     },
     {
-      "Route": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
-      "AssetFile": "uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "Route": "uploads/products/7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
+      "AssetFile": "uploads/products/7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -812,7 +1304,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:35:57 GMT"
+          "Value": "Wed, 28 May 2025 11:50:30 GMT"
         }
       ],
       "EndpointProperties": [
@@ -823,45 +1315,8 @@
       ]
     },
     {
-      "Route": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
-      "AssetFile": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "129817"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:27:48 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.pmfloetf5j.jpeg",
-      "AssetFile": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg",
+      "Route": "uploads/products/8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.00eqb6709i.jpeg",
+      "AssetFile": "uploads/products/8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -874,7 +1329,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "129817"
+          "Value": "60608"
         },
         {
           "Name": "Content-Type",
@@ -882,76 +1337,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=\""
+          "Value": "\"oANJ75TiG3OZRXs24h49j7sGPC/0CI1ADBVxGOOgaOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:27:48 GMT"
+          "Value": "Wed, 28 May 2025 12:11:15 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pmfloetf5j"
+          "Value": "00eqb6709i"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI="
+          "Value": "sha256-oANJ75TiG3OZRXs24h49j7sGPC/0CI1ADBVxGOOgaOI="
         },
         {
           "Name": "label",
-          "Value": "uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg"
+          "Value": "uploads/products/8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.jpeg"
         }
       ]
     },
     {
-      "Route": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.290ty3vw3m.jpeg",
-      "AssetFile": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "120047"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:17:04 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "290ty3vw3m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
-      "AssetFile": "uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg",
+      "Route": "uploads/products/8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.jpeg",
+      "AssetFile": "uploads/products/8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -964,7 +1374,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "120047"
+          "Value": "60608"
         },
         {
           "Name": "Content-Type",
@@ -972,17 +1382,181 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=\""
+          "Value": "\"oANJ75TiG3OZRXs24h49j7sGPC/0CI1ADBVxGOOgaOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 08:17:04 GMT"
+          "Value": "Wed, 28 May 2025 12:11:15 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4="
+          "Value": "sha256-oANJ75TiG3OZRXs24h49j7sGPC/0CI1ADBVxGOOgaOI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.9gm78l4816.png",
+      "AssetFile": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:35:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9gm78l4816"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
+      "AssetFile": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:35:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.brszmzx2qf.png",
+      "AssetFile": "uploads/products/b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "396917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V05VRFdQ6c5WiJ7Y+LxUKkWdB0kRovMxO7h+w51uGS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:22:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brszmzx2qf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V05VRFdQ6c5WiJ7Y+LxUKkWdB0kRovMxO7h+w51uGS4="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png",
+      "AssetFile": "uploads/products/b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "396917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V05VRFdQ6c5WiJ7Y+LxUKkWdB0kRovMxO7h+w51uGS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:22:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V05VRFdQ6c5WiJ7Y+LxUKkWdB0kRovMxO7h+w51uGS4="
         }
       ]
     },
@@ -1069,45 +1643,8 @@
       ]
     },
     {
-      "Route": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
-      "AssetFile": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "106526"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:19:49 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.rj4wpmyg6t.jpeg",
-      "AssetFile": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg",
+      "Route": "uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.kxspsxcnf4.png",
+      "AssetFile": "uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1120,33 +1657,316 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "106526"
+          "Value": "262422"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=\""
+          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 11:19:49 GMT"
+          "Value": "Wed, 28 May 2025 13:57:42 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rj4wpmyg6t"
+          "Value": "kxspsxcnf4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg="
+          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
         },
         {
           "Name": "label",
-          "Value": "uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg"
+          "Value": "uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
+      "AssetFile": "uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 13:57:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
+      "AssetFile": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:16:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.tmq0yvvjkr.png",
+      "AssetFile": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:16:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tmq0yvvjkr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.ioaxp5nrim.png",
+      "AssetFile": "uploads/products/e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtEyYCw6BrMvISUtKvljR3OcrPluQFr/9v9C3izUlf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:22:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ioaxp5nrim"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtEyYCw6BrMvISUtKvljR3OcrPluQFr/9v9C3izUlf4="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png",
+      "AssetFile": "uploads/products/e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtEyYCw6BrMvISUtKvljR3OcrPluQFr/9v9C3izUlf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:22:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtEyYCw6BrMvISUtKvljR3OcrPluQFr/9v9C3izUlf4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.ioqaqvpop9.png",
+      "AssetFile": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:17:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ioqaqvpop9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png",
+      "AssetFile": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 12:17:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM="
         }
       ]
     }

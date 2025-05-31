@@ -55,7 +55,17 @@
         "IsRequired": false
       },
       {
+        "Name": "NameAr",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescriptionAr",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -102,7 +112,17 @@
         "IsRequired": false
       },
       {
+        "Name": "NameAr",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescriptionAr",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -154,7 +174,17 @@
         "IsRequired": false
       },
       {
+        "Name": "NameAr",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescriptionAr",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -216,7 +246,17 @@
         "IsRequired": false
       },
       {
+        "Name": "NameAr",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescriptionAr",
         "Type": "System.String",
         "IsRequired": false
       },

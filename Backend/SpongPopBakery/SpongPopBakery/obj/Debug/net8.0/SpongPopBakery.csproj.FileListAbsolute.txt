@@ -145,3 +145,4 @@ D:\Naira\SpongPop\Backend\SpongPopBakery\SpongPopBakery\obj\Debug\net8.0\SpongPo
 D:\Naira\SpongPop\Backend\SpongPopBakery\SpongPopBakery\obj\Debug\net8.0\SpongPopBakery.genruntimeconfig.cache
 D:\Naira\SpongPop\Backend\SpongPopBakery\SpongPopBakery\obj\Debug\net8.0\ref\SpongPopBakery.dll
 D:\Naira\SpongPop\Backend\SpongPopBakery\SpongPopBakery\bin\Debug\net8.0\SpongPopBakery.staticwebassets.runtime.json
+D:\Naira\SpongPop\Backend\SpongPopBakery\SpongPopBakery\obj\Debug\net8.0\SpongPopBakery.sourcelink.json

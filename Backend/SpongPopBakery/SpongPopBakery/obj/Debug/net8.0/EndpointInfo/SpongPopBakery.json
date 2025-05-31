@@ -101,7 +101,13 @@
                   "Name": {
                     "type": "string"
                   },
+                  "NameAr": {
+                    "type": "string"
+                  },
                   "Description": {
+                    "type": "string"
+                  },
+                  "DescriptionAr": {
                     "type": "string"
                   },
                   "Image": {
@@ -114,7 +120,13 @@
                 "Name": {
                   "style": "form"
                 },
+                "NameAr": {
+                  "style": "form"
+                },
                 "Description": {
+                  "style": "form"
+                },
+                "DescriptionAr": {
                   "style": "form"
                 },
                 "Image": {
@@ -177,7 +189,13 @@
                   "Name": {
                     "type": "string"
                   },
+                  "NameAr": {
+                    "type": "string"
+                  },
                   "Description": {
+                    "type": "string"
+                  },
+                  "DescriptionAr": {
                     "type": "string"
                   },
                   "Image": {
@@ -190,7 +208,13 @@
                 "Name": {
                   "style": "form"
                 },
+                "NameAr": {
+                  "style": "form"
+                },
                 "Description": {
+                  "style": "form"
+                },
+                "DescriptionAr": {
                   "style": "form"
                 },
                 "Image": {
@@ -252,7 +276,13 @@
                   "Name": {
                     "type": "string"
                   },
+                  "NameAr": {
+                    "type": "string"
+                  },
                   "Description": {
+                    "type": "string"
+                  },
+                  "DescriptionAr": {
                     "type": "string"
                   },
                   "Price": {
@@ -276,7 +306,13 @@
                 "Name": {
                   "style": "form"
                 },
+                "NameAr": {
+                  "style": "form"
+                },
                 "Description": {
+                  "style": "form"
+                },
+                "DescriptionAr": {
                   "style": "form"
                 },
                 "Price": {
@@ -371,7 +407,13 @@
                   "Name": {
                     "type": "string"
                   },
+                  "NameAr": {
+                    "type": "string"
+                  },
                   "Description": {
+                    "type": "string"
+                  },
+                  "DescriptionAr": {
                     "type": "string"
                   },
                   "Price": {
@@ -395,7 +437,13 @@
                 "Name": {
                   "style": "form"
                 },
+                "NameAr": {
+                  "style": "form"
+                },
                 "Description": {
+                  "style": "form"
+                },
+                "DescriptionAr": {
                   "style": "form"
                 },
                 "Price": {

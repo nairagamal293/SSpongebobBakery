@@ -30,7 +30,9 @@ namespace SpongPopBakery.Controllers
             {
                 Id = c.Id,
                 Name = c.Name,
+                NameAr = c.NameAr,
                 Description = c.Description,
+                DescriptionAr = c.DescriptionAr,
                 ImageUrl = _imageService.GetImageUrl(c.ImagePath)
             });
             return Ok(categoriesDto);
@@ -48,8 +50,10 @@ namespace SpongPopBakery.Controllers
             var category = new Category
             {
                 Name = categoryCreateDto.Name,
+                NameAr = categoryCreateDto.NameAr,
                 Description = categoryCreateDto.Description,
-                ImagePath = imagePath
+                DescriptionAr = categoryCreateDto.DescriptionAr,
+                ImagePath = await _imageService.SaveImage(categoryCreateDto.Image, "categories")
             };
 
             var createdCategory = await _categoryService.CreateCategory(category);
@@ -74,7 +78,9 @@ namespace SpongPopBakery.Controllers
             {
                 Id = category.Id,
                 Name = category.Name,
+                NameAr = category.NameAr,
                 Description = category.Description,
+                DescriptionAr = category.DescriptionAr,
                 ImageUrl = _imageService.GetImageUrl(category.ImagePath)
             });
         }
@@ -94,7 +100,9 @@ namespace SpongPopBakery.Controllers
             }
 
             category.Name = categoryUpdateDto.Name;
+            category.NameAr = categoryUpdateDto.NameAr;
             category.Description = categoryUpdateDto.Description;
+            categoryUpdateDto.DescriptionAr = categoryUpdateDto.DescriptionAr;
             category.UpdatedAt = DateTime.UtcNow;
 
             await _categoryService.UpdateCategory(category);

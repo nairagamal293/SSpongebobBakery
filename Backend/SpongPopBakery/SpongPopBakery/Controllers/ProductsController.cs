@@ -33,7 +33,9 @@ namespace SpongPopBakery.Controllers
             {
                 Id = p.Id,
                 Name = p.Name,
+                NameAr = p.NameAr,
                 Description = p.Description,
+                DescriptionAr = p.DescriptionAr,
                 Price = p.Price,
                 ImageUrl = _imageService.GetImageUrl(p.ImagePath),
                 CategoryId = p.CategoryId,
@@ -51,7 +53,9 @@ namespace SpongPopBakery.Controllers
             {
                 Id = p.Id,
                 Name = p.Name,
+                NameAr = p.NameAr,
                 Description = p.Description,
+                DescriptionAr = p.DescriptionAr,
                 Price = p.Price,
                 ImageUrl = _imageService.GetImageUrl(p.ImagePath),
                 CategoryId = p.CategoryId,
@@ -77,7 +81,9 @@ namespace SpongPopBakery.Controllers
             var product = new Product
             {
                 Name = productCreateDto.Name,
+                NameAr = productCreateDto.NameAr,
                 Description = productCreateDto.Description,
+                DescriptionAr = productCreateDto.DescriptionAr,
                 Price = productCreateDto.Price,
                 ImagePath = imagePath,
                 CategoryId = productCreateDto.CategoryId,
@@ -90,7 +96,9 @@ namespace SpongPopBakery.Controllers
             {
                 Id = createdProduct.Id,
                 Name = createdProduct.Name,
+                NameAr = createdProduct.NameAr,
                 Description = createdProduct.Description,
+                DescriptionAr = createdProduct.DescriptionAr,
                 Price = createdProduct.Price,
                 ImageUrl = _imageService.GetImageUrl(createdProduct.ImagePath),
                 CategoryId = createdProduct.CategoryId,
@@ -110,7 +118,9 @@ namespace SpongPopBakery.Controllers
             {
                 Id = product.Id,
                 Name = product.Name,
+                NameAr = product.NameAr,
                 Description = product.Description,
+                DescriptionAr = product.DescriptionAr,
                 Price = product.Price,
                 ImageUrl = _imageService.GetImageUrl(product.ImagePath),
                 CategoryId = product.CategoryId,
@@ -135,7 +145,9 @@ namespace SpongPopBakery.Controllers
             }
 
             product.Name = productUpdateDto.Name;
+            product.NameAr = productUpdateDto.NameAr;
             product.Description = productUpdateDto.Description;
+            product.DescriptionAr = productUpdateDto.DescriptionAr;
             product.Price = productUpdateDto.Price;
             product.CategoryId = productUpdateDto.CategoryId;
             product.IsAvailable = productUpdateDto.IsAvailable;

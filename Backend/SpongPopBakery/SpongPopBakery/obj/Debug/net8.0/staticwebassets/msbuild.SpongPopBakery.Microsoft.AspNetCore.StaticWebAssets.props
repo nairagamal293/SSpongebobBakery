@@ -1,76 +1,130 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/categories/0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg</RelativePath>
+      <RelativePath>uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>35esyc9uuu</Fingerprint>
-      <Integrity>aaebyMKEgcTQ9rtJzQGKTX79eS2UWDVpCXe1hdhHjBs=</Integrity>
+      <Fingerprint>6m3n0mo448</Fingerprint>
+      <Integrity>8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\0b196f3b-4d4b-4707-9d30-792975ce8235_Delicious Pizza.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/categories/6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg</RelativePath>
+      <RelativePath>uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mw061gk7wl</Fingerprint>
-      <Integrity>6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=</Integrity>
+      <Fingerprint>1imbphcj48</Fingerprint>
+      <Integrity>V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\6bcc4d45-37a3-4a36-8e88-9d635321c092_download (2).jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/categories/d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg</RelativePath>
+      <RelativePath>uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k9uwdzkah8</Fingerprint>
-      <Integrity>OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=</Integrity>
+      <Fingerprint>kxspsxcnf4</Fingerprint>
+      <Integrity>SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d05f3eed-ab26-4759-8473-913e934c93ea_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/categories/d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg</RelativePath>
+      <RelativePath>uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wpnuypqsld</Fingerprint>
-      <Integrity>bCaZu6uHT0faiSWO2nm3nLX8hFxOxhowLZ8EnmYgPpo=</Integrity>
+      <Fingerprint>2owo4btag5</Fingerprint>
+      <Integrity>nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\d7d2c9f7-84c2-4882-8960-1d8b49e0f3d2_مناقيش مشكلة.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/categories/8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6ljip0pobi</Fingerprint>
+      <Integrity>qnw/Q9rkzEhCLv1lcRDP27GGosGu7isXG8IwEELLjRE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/categories/b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wnoy74jddk</Fingerprint>
+      <Integrity>pOeUYI+bV6fdSMevmb9vmPOEkjWyORQXSkaxHkFHLX0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\b1ef8ee0-b6b5-402b-8fea-caf3b7181d3b_Lemon_Custard_Pie_Recipe___The_Feedfeed-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/categories/c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lti0gqujst</Fingerprint>
+      <Integrity>SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\c41a09ba-80e4-4233-b6c6-f6ab41d56fbd_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\download (2).jpeg'))">
       <SourceType>Package</SourceType>
@@ -90,6 +144,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\download (2).jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>psglio4i7d</Fingerprint>
+      <Integrity>SbqDecsKfzdMFOVJ2JV8VfI/l5NM1jov33oirWK3KB8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
@@ -108,66 +180,102 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/products/309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg</RelativePath>
+      <RelativePath>uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>c7rb4tq4kn</Fingerprint>
-      <Integrity>eBYEgfq4RTVUB+AoeEGUxw11yAxTePFLOM6jCQ+XjeE=</Integrity>
+      <Fingerprint>zi617rt2i9</Fingerprint>
+      <Integrity>S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\309f2d13-4028-43af-8015-9759479a7984_Margarita Pizza Margherita Italian Cuisine Tomato PNG - Free Download.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/products/3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg</RelativePath>
+      <RelativePath>uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k9uwdzkah8</Fingerprint>
-      <Integrity>OLrVbFByACtUhJyCfjU4kqz9DsjmFkHsKg9boCRqrTY=</Integrity>
+      <Fingerprint>erp64g0u0a</Fingerprint>
+      <Integrity>6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\3ac92b27-09b1-408a-a606-146f32965420_Classic Cheese and Onion Pie Recipe – A Comforting British Favourite with Buttery Pastry.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/products/55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg</RelativePath>
+      <RelativePath>uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sf4n3hgwfo</Fingerprint>
-      <Integrity>yML1KpM61LmCyZn1/UUlDenULnWP0cxV6C8NGibLBhw=</Integrity>
+      <Fingerprint>azjh3bojka</Fingerprint>
+      <Integrity>mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\55f76e73-97ca-4a74-a0df-27334c42f28b_The Best Mississippi Mud Pie Recipe Ever.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/products/7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg</RelativePath>
+      <RelativePath>uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dvlmhyo9sd</Fingerprint>
+      <Integrity>x65YiriwZWbOw4aRhYZjZb06IBG2MJ7DiIisRt7CPIU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/products/76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lti0gqujst</Fingerprint>
+      <Integrity>SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/products/7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -178,43 +286,61 @@
       <Integrity>z5Z2No2aKU11+IYE9pXqbxBpLi1V7BOkYy4O8KEhA/s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7243c8cf-059a-46d8-ac69-32dd1404093b_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7a635e2a-abda-4243-a974-6a7b52fc8d27_Delicious Apple Pie with Lattice Crust - High-Quality Transparent AI Image.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/products/7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg</RelativePath>
+      <RelativePath>uploads/products/8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pmfloetf5j</Fingerprint>
-      <Integrity>YeJGi6p7CLIrg8+xL+HmUZ9l/d8VLyNtjTL5/pMb2gI=</Integrity>
+      <Fingerprint>00eqb6709i</Fingerprint>
+      <Integrity>oANJ75TiG3OZRXs24h49j7sGPC/0CI1ADBVxGOOgaOI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7c932fee-505e-4606-a315-52edbd65826e_Pizza Calzone European Cuisine Italian Cuisine Pepperoni PNG - Free Download.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\8b8d783c-b6ac-4df9-8b3b-c04ac08d0884_Burger in a white background _ Premium AI-generated PSD.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/products/a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg</RelativePath>
+      <RelativePath>uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>290ty3vw3m</Fingerprint>
-      <Integrity>huTBisZjjxQTeczeqtrv1bPsKpkowPfCXwUTKID+BH4=</Integrity>
+      <Fingerprint>9gm78l4816</Fingerprint>
+      <Integrity>aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a60ea94c-26d5-407d-b350-6548fc87510f_Pizza Vários Sabores PNG Transparente.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/products/b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>brszmzx2qf</Fingerprint>
+      <Integrity>V05VRFdQ6c5WiJ7Y+LxUKkWdB0kRovMxO7h+w51uGS4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg'))">
       <SourceType>Package</SourceType>
@@ -234,23 +360,77 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b6f8663a-b74f-4a46-8ea1-b9062d28b3bb_Recipes_net.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SpongPopBakery</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SpongPopBakery</BasePath>
-      <RelativePath>uploads/products/e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg</RelativePath>
+      <RelativePath>uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rj4wpmyg6t</Fingerprint>
-      <Integrity>+S8gW/A4fwriML18JnPsGct4lRrDH5ccQD/ktWP1lSg=</Integrity>
+      <Fingerprint>kxspsxcnf4</Fingerprint>
+      <Integrity>SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e17b6c75-08a3-4bed-83dc-fe7ef1985403_Za'atar Manakeesh (Vegan Zaatar Flatbread)_ مناقيش زعتر.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tmq0yvvjkr</Fingerprint>
+      <Integrity>1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/products/e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ioaxp5nrim</Fingerprint>
+      <Integrity>UtEyYCw6BrMvISUtKvljR3OcrPluQFr/9v9C3izUlf4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SpongPopBakery</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SpongPopBakery</BasePath>
+      <RelativePath>uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ioqaqvpop9</Fingerprint>
+      <Integrity>bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
