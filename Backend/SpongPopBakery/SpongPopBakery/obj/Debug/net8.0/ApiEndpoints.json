@@ -189,11 +189,6 @@
         "IsRequired": false
       },
       {
-        "Name": "Price",
-        "Type": "System.Decimal",
-        "IsRequired": false
-      },
-      {
         "Name": "Image",
         "Type": "Microsoft.AspNetCore.Http.IFormFile",
         "IsRequired": false
@@ -206,6 +201,11 @@
       {
         "Name": "IsAvailable",
         "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Sizes",
+        "Type": "System.Collections.Generic.List\u00601[[SpongPopBakery.DTOs.ProductSizeCreateDto, SpongPopBakery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": false
       }
     ],
@@ -261,11 +261,6 @@
         "IsRequired": false
       },
       {
-        "Name": "Price",
-        "Type": "System.Decimal",
-        "IsRequired": false
-      },
-      {
         "Name": "Image",
         "Type": "Microsoft.AspNetCore.Http.IFormFile",
         "IsRequired": false
@@ -278,6 +273,11 @@
       {
         "Name": "IsAvailable",
         "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Sizes",
+        "Type": "System.Collections.Generic.List\u00601[[SpongPopBakery.DTOs.ProductSizeCreateDto, SpongPopBakery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": false
       }
     ],

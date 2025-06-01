@@ -36,11 +36,18 @@ namespace SpongPopBakery.Controllers
                 NameAr = p.NameAr,
                 Description = p.Description,
                 DescriptionAr = p.DescriptionAr,
-                Price = p.Price,
                 ImageUrl = _imageService.GetImageUrl(p.ImagePath),
                 CategoryId = p.CategoryId,
                 CategoryName = p.Category?.Name,
-                IsAvailable = p.IsAvailable
+                IsAvailable = p.IsAvailable,
+                Sizes = p.Sizes.Select(s => new ProductSizeDto
+                {
+                    Id = s.Id,
+                    Name = s.Name,
+                    NameAr = s.NameAr,
+                    Price = s.Price,
+                    IsDefault = s.IsDefault
+                }).ToList()
             });
             return Ok(productsDto);
         }
@@ -56,11 +63,18 @@ namespace SpongPopBakery.Controllers
                 NameAr = p.NameAr,
                 Description = p.Description,
                 DescriptionAr = p.DescriptionAr,
-                Price = p.Price,
                 ImageUrl = _imageService.GetImageUrl(p.ImagePath),
                 CategoryId = p.CategoryId,
                 CategoryName = p.Category?.Name,
-                IsAvailable = p.IsAvailable
+                IsAvailable = p.IsAvailable,
+                Sizes = p.Sizes.Select(s => new ProductSizeDto
+                {
+                    Id = s.Id,
+                    Name = s.Name,
+                    NameAr = s.NameAr,
+                    Price = s.Price,
+                    IsDefault = s.IsDefault
+                }).ToList()
             });
             return Ok(productsDto);
         }
@@ -84,27 +98,60 @@ namespace SpongPopBakery.Controllers
                 NameAr = productCreateDto.NameAr,
                 Description = productCreateDto.Description,
                 DescriptionAr = productCreateDto.DescriptionAr,
-                Price = productCreateDto.Price,
                 ImagePath = imagePath,
                 CategoryId = productCreateDto.CategoryId,
-                IsAvailable = productCreateDto.IsAvailable
+                IsAvailable = productCreateDto.IsAvailable,
+                Sizes = productCreateDto.Sizes.Select(s => new ProductSize
+                {
+                    Name = s.Name,
+                    NameAr = s.NameAr,
+                    Price = s.Price,
+                    IsDefault = s.IsDefault
+                }).ToList()
             };
+
+            // If no sizes provided, then create a default one
+            if (!product.Sizes.Any())
+            {
+                product.Sizes.Add(new ProductSize
+                {
+                    Name = "Standard",
+                    NameAr = "قياسي",
+                    Price = 0,
+                    IsDefault = true
+                });
+            }
+            // If sizes are provided but none are marked as default, mark the first one as default
+            else if (!product.Sizes.Any(s => s.IsDefault))
+            {
+                product.Sizes.First().IsDefault = true;
+            }
 
             var createdProduct = await _productService.CreateProduct(product);
 
-            return CreatedAtAction(nameof(GetProduct), new { id = createdProduct.Id }, new ProductDto
+            var productDto = new ProductDto
             {
                 Id = createdProduct.Id,
                 Name = createdProduct.Name,
                 NameAr = createdProduct.NameAr,
                 Description = createdProduct.Description,
                 DescriptionAr = createdProduct.DescriptionAr,
-                Price = createdProduct.Price,
                 ImageUrl = _imageService.GetImageUrl(createdProduct.ImagePath),
                 CategoryId = createdProduct.CategoryId,
-                CategoryName = category.Name,
-                IsAvailable = createdProduct.IsAvailable
-            });
+                CategoryName = category?.Name,
+                CategoryNameAr = category?.NameAr,
+                IsAvailable = createdProduct.IsAvailable,
+                Sizes = createdProduct.Sizes.Select(s => new ProductSizeDto
+                {
+                    Id = s.Id,
+                    Name = s.Name,
+                    NameAr = s.NameAr,
+                    Price = s.Price,
+                    IsDefault = s.IsDefault
+                }).ToList()
+            };
+
+            return CreatedAtAction(nameof(GetProduct), new { id = createdProduct.Id }, productDto);
         }
 
         [HttpGet("{id}")]
@@ -121,11 +168,18 @@ namespace SpongPopBakery.Controllers
                 NameAr = product.NameAr,
                 Description = product.Description,
                 DescriptionAr = product.DescriptionAr,
-                Price = product.Price,
                 ImageUrl = _imageService.GetImageUrl(product.ImagePath),
                 CategoryId = product.CategoryId,
                 CategoryName = product.Category?.Name,
-                IsAvailable = product.IsAvailable
+                IsAvailable = product.IsAvailable,
+                Sizes = product.Sizes.Select(s => new ProductSizeDto
+                {
+                    Id = s.Id,
+                    Name = s.Name,
+                    NameAr = s.NameAr,
+                    Price = s.Price,
+                    IsDefault = s.IsDefault
+                }).ToList()
             });
         }
 
@@ -137,7 +191,7 @@ namespace SpongPopBakery.Controllers
             if (product == null)
                 return NotFound();
 
-            // Only update image if a new one was provided
+            // Update image if a new one was uploaded
             if (productUpdateDto.Image != null)
             {
                 _imageService.DeleteImage(product.ImagePath);
@@ -148,15 +202,39 @@ namespace SpongPopBakery.Controllers
             product.NameAr = productUpdateDto.NameAr;
             product.Description = productUpdateDto.Description;
             product.DescriptionAr = productUpdateDto.DescriptionAr;
-            product.Price = productUpdateDto.Price;
             product.CategoryId = productUpdateDto.CategoryId;
             product.IsAvailable = productUpdateDto.IsAvailable;
             product.UpdatedAt = DateTime.UtcNow;
 
-            await _productService.UpdateProduct(product);
+            // Replace product sizes with new ones
+            product.Sizes = productUpdateDto.Sizes.Select(s => new ProductSize
+            {
+                Name = s.Name,
+                NameAr = s.NameAr,
+                Price = s.Price,
+                IsDefault = s.IsDefault
+            }).ToList();
 
+            // Ensure default size if missing
+            if (!product.Sizes.Any())
+            {
+                product.Sizes.Add(new ProductSize
+                {
+                    Name = "Standard",
+                    NameAr = "قياسي",
+                    Price = 0,
+                    IsDefault = true
+                });
+            }
+            else if (product.Sizes.Count == 1)
+            {
+                product.Sizes.First().IsDefault = true;
+            }
+
+            await _productService.UpdateProduct(product);
             return NoContent();
         }
+
 
         [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]

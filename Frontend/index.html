@@ -355,7 +355,29 @@
       font-size: 18px;
       opacity: 0.9;
     }
+/* Add this to the existing style section in index.html */
+.sizes-info {
+    color: #7B3F00;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
 
+.menu-item {
+    position: relative;
+    padding-bottom: 15px;
+}
+
+.menu-item .badge {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+
+.menu-item .price {
+    font-weight: 600;
+    color: #7B3F00;
+    margin-bottom: 5px;
+}
 
 /* Add more RTL-specific styles as needed */
   </style>
@@ -373,11 +395,9 @@
  <header id="header" class="header d-flex align-items-center sticky-top">
   <div class="container position-relative d-flex align-items-center justify-content-between">
 
-    <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
-      <!-- Uncomment the line below if you also wish to use an image logo -->
-      <!-- <img src="assets/img/logo.png" alt=""> -->
-      <h1 class="sitename">Spongebob Bakery</h1>
-    </a>
+          <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+  <img src="assets/img/logo.png" alt="Spongebob Bakery Logo" class="img-fluid" style="max-height: 40px;">
+</a>
 
     <nav id="navmenu" class="navmenu">
       <ul>
@@ -967,10 +987,9 @@ async function loadCategories() {
     }
 }
 
-// Fetch and display products for a category
 async function loadProducts(categoryId) {
     try {
-        const response = await fetch(`https://localhost:7018/api/Products/category/${categoryId}`);
+        const response = await fetch(`https://localhost:7018/api/Products/category/${categoryId}?includeSizes=true`);
         products = await response.json();
         
         const swiperWrapper = document.querySelector('.products-swiper .swiper-wrapper');
@@ -979,6 +998,10 @@ async function loadProducts(categoryId) {
         products.forEach(product => {
             const productSlide = document.createElement('div');
             productSlide.className = 'swiper-slide';
+            
+            // Check if product has multiple sizes
+            const hasMultipleSizes = product.sizes && product.sizes.length > 1;
+            const defaultSize = product.sizes?.find(size => size.isDefault);
             
             productSlide.innerHTML = `
                 <div class="menu-item h-100" data-product-id="${product.id}">
@@ -991,12 +1014,22 @@ async function loadProducts(categoryId) {
                     <p class="ingredients">
                         ${currentLanguage === 'ar' ? (product.descriptionAr || '') : (product.description || 'Delicious bakery item')}
                     </p>
-                    <p class="price">
-                        ${currentLanguage === 'ar' ? 'ريال' : 'SR'} ${product.price.toFixed(2)}
-                    </p>
+                    
+                    ${!hasMultipleSizes && defaultSize ? `
+                        <p class="price">
+                            ${currentLanguage === 'ar' ? 'ريال' : 'SR'} ${defaultSize.price.toFixed(2)}
+                        </p>
+                    ` : ''}
+                    
+                    ${hasMultipleSizes ? `
+                        <div class="sizes-info mt-2">
+                            <small>${currentLanguage === 'ar' ? 'متوفر بمقاسات متعددة' : 'Available in multiple sizes'}</small>
+                        </div>
+                    ` : ''}
+                    
                     ${product.isAvailable ? 
-                        `<span class="badge bg-success">${currentLanguage === 'ar' ? 'متوفر' : 'Available'}</span>` : 
-                        `<span class="badge bg-secondary">${currentLanguage === 'ar' ? 'غير متوفر' : 'Out of Stock'}</span>`}
+                        `</br><span class="badge bg-success">${currentLanguage === 'ar' ? 'متوفر' : 'Available'}</span>` : 
+                        `</br><span class="badge bg-secondary">${currentLanguage === 'ar' ? 'غير متوفر' : 'Out of Stock'}</span>`}
                 </div>
             `;
             

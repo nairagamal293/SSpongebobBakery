@@ -13,10 +13,26 @@ namespace SpongPopBakery.Services
             _context = context;
         }
 
+        public async Task<Product> CreateProduct(Product product)
+        {
+            
+
+            // Instead, just ensure at least one size is marked as default
+            if (product.Sizes.Any() && !product.Sizes.Any(s => s.IsDefault))
+            {
+                product.Sizes.First().IsDefault = true;
+            }
+
+            _context.Products.Add(product);
+            await _context.SaveChangesAsync();
+            return product;
+        }
+
         public async Task<IEnumerable<Product>> GetAllProducts()
         {
             return await _context.Products
                 .Include(p => p.Category)
+                .Include(p => p.Sizes)
                 .ToListAsync();
         }
 
@@ -24,6 +40,7 @@ namespace SpongPopBakery.Services
         {
             return await _context.Products
                 .Include(p => p.Category)
+                .Include(p => p.Sizes)
                 .FirstOrDefaultAsync(p => p.Id == id);
         }
 
@@ -32,15 +49,10 @@ namespace SpongPopBakery.Services
             return await _context.Products
                 .Where(p => p.CategoryId == categoryId)
                 .Include(p => p.Category)
+                .Include(p => p.Sizes)
                 .ToListAsync();
         }
 
-        public async Task<Product> CreateProduct(Product product)
-        {
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
-            return product;
-        }
 
         public async Task UpdateProduct(Product product)
         {

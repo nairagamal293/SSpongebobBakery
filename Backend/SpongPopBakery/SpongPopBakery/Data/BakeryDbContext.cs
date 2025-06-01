@@ -24,6 +24,13 @@ namespace SpongPopBakery.Data
                 .HasForeignKey(p => p.CategoryId)
                 .OnDelete(DeleteBehavior.Restrict);
 
+            // Configure ProductSize relationship
+            modelBuilder.Entity<ProductSize>()
+            .HasOne(ps => ps.Product)
+            .WithMany(p => p.Sizes)
+            .HasForeignKey(ps => ps.ProductId)
+            .OnDelete(DeleteBehavior.Cascade);
+
             // Seed initial admin user
             CreatePasswordHash("admin123", out var passwordHash, out var passwordSalt);
 

@@ -285,10 +285,6 @@
                   "DescriptionAr": {
                     "type": "string"
                   },
-                  "Price": {
-                    "type": "number",
-                    "format": "double"
-                  },
                   "Image": {
                     "type": "string",
                     "format": "binary"
@@ -299,6 +295,12 @@
                   },
                   "IsAvailable": {
                     "type": "boolean"
+                  },
+                  "Sizes": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ProductSizeCreateDto"
+                    }
                   }
                 }
               },
@@ -315,9 +317,6 @@
                 "DescriptionAr": {
                   "style": "form"
                 },
-                "Price": {
-                  "style": "form"
-                },
                 "Image": {
                   "style": "form"
                 },
@@ -325,6 +324,9 @@
                   "style": "form"
                 },
                 "IsAvailable": {
+                  "style": "form"
+                },
+                "Sizes": {
                   "style": "form"
                 }
               }
@@ -416,10 +418,6 @@
                   "DescriptionAr": {
                     "type": "string"
                   },
-                  "Price": {
-                    "type": "number",
-                    "format": "double"
-                  },
                   "Image": {
                     "type": "string",
                     "format": "binary"
@@ -430,6 +428,12 @@
                   },
                   "IsAvailable": {
                     "type": "boolean"
+                  },
+                  "Sizes": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/ProductSizeCreateDto"
+                    }
                   }
                 }
               },
@@ -446,9 +450,6 @@
                 "DescriptionAr": {
                   "style": "form"
                 },
-                "Price": {
-                  "style": "form"
-                },
                 "Image": {
                   "style": "form"
                 },
@@ -456,6 +457,9 @@
                   "style": "form"
                 },
                 "IsAvailable": {
+                  "style": "form"
+                },
+                "Sizes": {
                   "style": "form"
                 }
               }
@@ -532,6 +536,27 @@
   },
   "components": {
     "schemas": {
+      "ProductSizeCreateDto": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "nameAr": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "isDefault": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
       "UserLoginDto": {
         "type": "object",
         "properties": {

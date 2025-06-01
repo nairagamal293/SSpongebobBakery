@@ -28,8 +28,6 @@
 
   <style>
     /* Menu Page Specific Styles */
- 
-    
     .menu-header {
       text-align: center;
       margin-bottom: 40px;
@@ -42,10 +40,6 @@
       margin-bottom: 20px;
     }
     
-    .menu-header .language-toggle {
-      margin-bottom: 30px;
-    }
-    
     .menu-category {
       margin-bottom: 50px;
       background: white;
@@ -53,40 +47,56 @@
       padding: 30px;
       box-shadow: 0 5px 15px rgba(0,0,0,0.05);
     }
-    .menu-category h2 {
-  font-family: 'Amatic SC', cursive;
-  font-size: 2.5rem;
-  color: #7B3F00;
-  border-bottom: 2px dashed #7B3F00;
-  padding-bottom: 10px;
-  margin-bottom: 25px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.menu-category h2 .english-name {
-  text-align: left;
-}
-
-.menu-category h2 .arabic-name {
-  text-align: right;
-  font-family: 'Tahoma', sans-serif;
-  direction: rtl;
-}
     
-    .menu-item {
+    .menu-category h2 {
+      font-family: 'Amatic SC', cursive;
+      font-size: 2.5rem;
+      color: #7B3F00;
+      border-bottom: 2px dashed #7B3F00;
+      padding-bottom: 10px;
+      margin-bottom: 25px;
       display: flex;
       justify-content: space-between;
+      align-items: center;
+    }
+
+    .menu-category h2 .english-name {
+      text-align: left;
+    }
+
+    .menu-category h2 .arabic-name {
+      text-align: right;
+      font-family: 'Tahoma', sans-serif;
+      direction: rtl;
+    }
+    
+    .menu-item {
       margin-bottom: 25px;
       padding-bottom: 15px;
       border-bottom: 1px dotted #ddd;
+      display: flex;
+      flex-wrap: wrap;
     }
     
     .menu-item:last-child {
       border-bottom: none;
       margin-bottom: 0;
       padding-bottom: 0;
+    }
+    
+    .menu-item-header {
+      display: flex;
+      flex: 1;
+      min-width: 300px;
+    }
+    
+    .menu-item-image {
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-right: 20px;
+      flex-shrink: 0;
     }
     
     .menu-item-info {
@@ -97,15 +107,15 @@
       font-weight: 600;
       font-size: 1.1rem;
       margin-bottom: 5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
     
     .menu-item-name-ar {
-  font-weight: 700;
-    
+      font-weight: 700;
       color: #000000;
-font-family: 'Amiri', serif;
-
-
+      font-family: 'Amiri', serif;
       direction: rtl;
     }
     
@@ -122,19 +132,50 @@ font-family: 'Amiri', serif;
       direction: rtl;
     }
     
-    .menu-item-price {
-      font-weight: 700;
-      color: #7B3F00;
-      min-width: 80px;
-      text-align: right;
+    .menu-item-sizes {
+      margin-left: 20px;
+      min-width: 200px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
     }
     
-    .menu-item-image {
-      width: 100px;
-      height: 100px;
-      object-fit: cover;
-      border-radius: 8px;
-      margin-right: 20px;
+    .size-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px 12px;
+      margin-bottom: 8px;
+      border-radius: 6px;
+      background: #f9f9f9;
+      transition: all 0.3s ease;
+    }
+    
+    .size-item:hover {
+      background: #f0f0f0;
+    }
+    
+    .size-item:last-child {
+      margin-bottom: 0;
+    }
+    
+    .size-name {
+      font-weight: 500;
+    }
+    
+    .size-name-ar {
+      font-family: 'Tahoma', sans-serif;
+      direction: rtl;
+    }
+    
+    .size-price {
+      font-weight: 600;
+      color: #7B3F00;
+    }
+    
+    .default-size {
+      background-color: rgba(123, 63, 0, 0.08);
+      border-left: 3px solid #7B3F00;
     }
     
     .availability-badge {
@@ -155,15 +196,21 @@ font-family: 'Amiri', serif;
       color: #721c24;
     }
     
-    .print-button {
-      position: fixed;
-      bottom: 30px;
-      right: 30px;
-      z-index: 1000;
+    /* For English text */
+    .english-name, .english-desc {
+      text-align: left;
+      direction: ltr;
     }
-    
+
+    /* For Arabic text */
+    .arabic-name, .arabic-desc, .menu-item-name-ar, .menu-item-description-ar {
+      text-align: right;
+      direction: rtl;
+      font-family: 'Tahoma', sans-serif;
+    }
+
     @media print {
-      .no-print, .print-button {
+      .no-print {
         display: none !important;
       }
       
@@ -184,24 +231,25 @@ font-family: 'Amiri', serif;
       }
     }
 
-    /* For English text */
-.english-name, .english-desc {
-  text-align: left;
-  direction: ltr;
-}
-
-/* For Arabic text */
-.arabic-name, .arabic-desc, .menu-item-name-ar, .menu-item-description-ar {
-  text-align: right;
-  direction: rtl;
-  font-family: 'Tahoma', sans-serif;
-}
-
-/* Price alignment */
-.menu-item-price {
-  text-align: right;
-  min-width: 80px;
-}
+    @media (max-width: 768px) {
+      .menu-item-header {
+        flex-direction: column;
+      }
+      
+      .menu-item-image {
+        margin-right: 0;
+        margin-bottom: 15px;
+        width: 100%;
+        height: auto;
+        max-height: 200px;
+      }
+      
+      .menu-item-sizes {
+        margin-left: 0;
+        margin-top: 15px;
+        min-width: 100%;
+      }
+    }
   </style>
 </head>
 
@@ -210,16 +258,16 @@ font-family: 'Amiri', serif;
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container position-relative d-flex align-items-center justify-content-between">
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
-        <h1 class="sitename">Spongebob Bakery</h1>
-      </a>
+  <img src="assets/img/logo.png" alt="Spongebob Bakery Logo" class="img-fluid" style="max-height: 40px;">
+</a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.html#hero">Home</a></li>
           <li><a href="index.html#about">About</a></li>
           <li><a href="menu.html" class="active">Full Menu</a></li>     
-           <li><a href="index.html#menu">Menu</a></li>
-        <li><a href="index.html#why-us">Why Us</a></li>             
+          <li><a href="index.html#menu">Menu</a></li>
+          <li><a href="index.html#why-us">Why Us</a></li>             
           <li><a href="index.html#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -228,7 +276,7 @@ font-family: 'Amiri', serif;
       <div class="social-icons d-flex gap-3 no-print">
         <a href="https://facebook.com" target="_blank" class="text-dark"><i class="bi bi-facebook fs-4"></i></a>
         <a href="https://instagram.com" target="_blank" class="text-dark"><i class="bi bi-instagram fs-4"></i></a>
-         <a href="https://snapchat.com" target="_blank" class="text-dark"><i class="bi bi-snapchat fs-4"></i></a>
+        <a href="https://snapchat.com" target="_blank" class="text-dark"><i class="bi bi-snapchat fs-4"></i></a>
       </div>
     </div>
   </header>
@@ -239,8 +287,6 @@ font-family: 'Amiri', serif;
         <div class="menu-header" data-aos="fade-up">
           <h1>Spongebob Bakery Menu</h1>
           <p>All our delicious offerings in one place</p>
-          
-          
         </div>
 
         <div id="menuContainer">
@@ -305,11 +351,6 @@ font-family: 'Amiri', serif;
     document.addEventListener('DOMContentLoaded', function() {
       // Load menu data
       loadFullMenu();
-      
-      // Setup print button
-      document.getElementById('printMenu')?.addEventListener('click', function() {
-        window.print();
-      });
     });
 
     async function loadFullMenu() {
@@ -317,7 +358,7 @@ font-family: 'Amiri', serif;
         // Fetch categories and products
         const [categoriesResponse, productsResponse] = await Promise.all([
           fetch('https://localhost:7018/api/Categories'),
-          fetch('https://localhost:7018/api/Products')
+          fetch('https://localhost:7018/api/Products?includeSizes=true')
         ]);
         
         if (!categoriesResponse.ok || !productsResponse.ok) {
@@ -331,9 +372,9 @@ font-family: 'Amiri', serif;
         const menuData = categories.map(category => {
           return {
             ...category,
-            products: products.filter(product => product.categoryId === category.id)
+            products: products.filter(product => product.categoryId === category.id && product.isAvailable)
           };
-        });
+        }).filter(category => category.products.length > 0);
         
         // Sort categories by name
         menuData.sort((a, b) => a.name.localeCompare(b.name));
@@ -351,24 +392,39 @@ font-family: 'Amiri', serif;
       }
     }
 
-function renderFullMenu(menuData) {
-  const menuContainer = document.getElementById('menuContainer');
-  menuContainer.innerHTML = '';
-  
-  menuData.forEach(category => {
-    if (category.products.length === 0) return;
-    
-    const categoryElement = document.createElement('div');
-    categoryElement.className = 'menu-category';
-    categoryElement.innerHTML = `
-      <h2>
-        <span class="english-name">${category.name}</span>
-        <span class="arabic-name">${category.nameAr || ''}</span>
-      </h2>
+    function renderFullMenu(menuData) {
+      const menuContainer = document.getElementById('menuContainer');
+      menuContainer.innerHTML = '';
+      
+      menuData.forEach(category => {
+        const categoryElement = document.createElement('div');
+        categoryElement.className = 'menu-category';
+        categoryElement.innerHTML = `
+          <h2>
+            <span class="english-name">${category.name}</span>
+            <span class="arabic-name">${category.nameAr || ''}</span>
+          </h2>
+          <div class="category-items">
+            ${category.products.map(product => renderProductItem(product)).join('')}
+          </div>
+        `;
+        
+        menuContainer.appendChild(categoryElement);
+      });
+      
+      // Initialize AOS animations
+      if (typeof AOS !== 'undefined') {
+        AOS.init();
+      }
+    }
 
-      <div class="category-items">
-        ${category.products.map(product => `
-          <div class="menu-item">
+    function renderProductItem(product) {
+      const hasMultipleSizes = product.sizes && product.sizes.length > 1;
+      const defaultSize = product.sizes?.find(size => size.isDefault);
+      
+      return `
+        <div class="menu-item" data-aos="fade-up">
+          <div class="menu-item-header">
             ${product.imageUrl ? `
               <img src="${product.imageUrl}" alt="${product.name}" class="menu-item-image no-print">
             ` : ''}
@@ -376,30 +432,43 @@ function renderFullMenu(menuData) {
               <div class="menu-item-name">
                 ${product.name}
                 <span class="availability-badge ${product.isAvailable ? 'available' : 'unavailable'} no-print">
-                  ${product.isAvailable ? 'Available' : 'Out of Stock'}
+                  ${product.isAvailable ? 'Available' : 'Unavailable'}
                 </span>
               </div>
-              ${product.description ? `<div class="menu-item-description">${product.description}</div>` : ''}
-              ${product.nameAr ? `<div class="menu-item-name-ar">${product.nameAr}</div>` : ''}
-        
-              ${product.descriptionAr ? `<div class="menu-item-description-ar">${product.descriptionAr}</div>` : ''}
-            </div>
-            <div class="menu-item-price">
-              SR ${product.price.toFixed(2)}
+              ${product.description ? `<div class="menu-item-description english-desc">${product.description}</div>` : ''}
+              ${product.nameAr ? `<div class="menu-item-name-ar arabic-name">${product.nameAr}</div>` : ''}
+              ${product.descriptionAr ? `<div class="menu-item-description-ar arabic-desc">${product.descriptionAr}</div>` : ''}
             </div>
           </div>
-        `).join('')}
-      </div>
-    `;
-    
-    menuContainer.appendChild(categoryElement);
-  });
-}
-      // Initialize AOS animations
-      if (typeof AOS !== 'undefined') {
-        AOS.init();
-      }
-    
+          
+          <div class="menu-item-sizes">
+            ${hasMultipleSizes ? `
+              ${product.sizes.map(size => `
+                <div class="size-item ${size.isDefault ? 'default-size' : ''}">
+                  <div>
+                    <span class="size-name">${size.name}</span>
+                    ${size.nameAr ? `<span class="size-name-ar d-block mt-1">${size.nameAr}</span>` : ''}
+                  </div>
+                  <div class="size-price">
+                    SR ${size.price.toFixed(2)}
+                    ${size.isDefault ? '<span class="badge bg-primary ms-2">Default</span>' : ''}
+                  </div>
+                </div>
+              `).join('')}
+            ` : (defaultSize ? `
+              <div class="size-item default-size">
+                <div>
+                  <span class="size-name"></span>
+                </div>
+                <div class="size-price">
+                  SR ${defaultSize.price.toFixed(2)}
+                </div>
+              </div>
+            ` : '')}
+          </div>
+        </div>
+      `;
+    }
   </script>
 </body>
 </html>

@@ -29,6 +29,28 @@
             margin-bottom: 20px;
             box-shadow: 0 0 10px rgba(0,0,0,0.05);
         }
+        .size-row {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.size-row:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.remove-size {
+    padding: 0.25rem 0.5rem;
+}
+
+#productSizesContainer, #editProductSizesContainer {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
     </style>
 </head>
 <body>
@@ -143,7 +165,7 @@
     </div>
      
    
-    <!-- Add Product Modal -->
+ <!-- Add Product Modal -->
 <div class="modal fade" id="addProductModal" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
@@ -174,10 +196,6 @@
                         </div>
                         <div class="col-md-6">
                             <div class="mb-3">
-                                <label for="productPrice" class="form-label">Price</label>
-                                <input type="number" step="0.01" class="form-control" id="productPrice" required>
-                            </div>
-                            <div class="mb-3">
                                 <label for="productCategory" class="form-label">Category</label>
                                 <select class="form-select" id="productCategory" required>
                                     <!-- Categories will be populated via JavaScript -->
@@ -197,6 +215,21 @@
                             </div>
                             <div class="mb-3">
                                 <img id="productImagePreview" src="#" alt="Preview" class="img-thumbnail" style="max-height: 150px; display: none;">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Product Sizes Section -->
+                    <div class="card mb-3">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <h5 class="mb-0">Product Sizes</h5>
+                            <button type="button" class="btn btn-sm btn-primary" id="addSizeBtn">
+                                <i class="bi bi-plus"></i> Add Size
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <div id="productSizesContainer">
+                                <!-- Sizes will be added here -->
                             </div>
                         </div>
                     </div>
@@ -242,10 +275,6 @@
                         </div>
                         <div class="col-md-6">
                             <div class="mb-3">
-                                <label for="editProductPrice" class="form-label">Price</label>
-                                <input type="number" step="0.01" class="form-control" id="editProductPrice" required>
-                            </div>
-                            <div class="mb-3">
                                 <label for="editProductCategory" class="form-label">Category</label>
                                 <select class="form-select" id="editProductCategory" required>
                                     <!-- Categories will be populated via JavaScript -->
@@ -269,6 +298,21 @@
                             </div>
                         </div>
                     </div>
+                    
+                    <!-- Product Sizes Section -->
+                    <div class="card mb-3">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <h5 class="mb-0">Product Sizes</h5>
+                            <button type="button" class="btn btn-sm btn-primary" id="editAddSizeBtn">
+                                <i class="bi bi-plus"></i> Add Size
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <div id="editProductSizesContainer">
+                                <!-- Sizes will be added here -->
+                            </div>
+                        </div>
+                    </div>
                 </form>
             </div>
             <div class="modal-footer">
@@ -278,6 +322,7 @@
         </div>
     </div>
 </div>
+
 
 <!-- Add Category Modal -->
 <div class="modal fade" id="addCategoryModal" tabindex="-1" aria-hidden="true">

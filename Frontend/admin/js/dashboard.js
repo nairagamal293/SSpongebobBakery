@@ -33,7 +33,7 @@ function initDashboard() {
     // Setup forms
     setupProductForms();
     setupCategoryForms();
-    
+    setupSizeControls();
     // Setup image previews
     setupImagePreviews();
 }
@@ -144,6 +144,8 @@ function setupLogout() {
     });
 }
 
+
+
 // Load dashboard statistics
 async function loadDashboardStats() {
     try {
@@ -175,6 +177,73 @@ async function loadDashboardStats() {
     }
 }
 
+// Setup size controls
+function setupSizeControls() {
+    // Add size button for new product
+    document.getElementById('addSizeBtn').addEventListener('click', function() {
+        addSizeRow('productSizesContainer');
+    });
+    
+    // Add size button for edit product
+    document.getElementById('editAddSizeBtn').addEventListener('click', function() {
+        addSizeRow('editProductSizesContainer');
+    });
+}
+
+// Update the addSizeRow function to use proper form field names
+function addSizeRow(containerId, size = null) {
+    const container = document.getElementById(containerId);
+    const sizeId = size?.id || Date.now();
+    
+    const sizeRow = document.createElement('div');
+    sizeRow.className = 'row mb-2 size-row';
+    sizeRow.dataset.sizeId = sizeId;
+    
+    sizeRow.innerHTML = `
+        <div class="col-md-3">
+            <input type="text" class="form-control size-name" 
+                   name="Sizes[${sizeId}].Name" 
+                   placeholder="Size name" 
+                   value="${size?.name || ''}" required>
+        </div>
+        <div class="col-md-3">
+            <input type="text" class="form-control size-name-ar" 
+                   name="Sizes[${sizeId}].NameAr" 
+                   placeholder="Arabic name" 
+                   value="${size?.nameAr || ''}" required>
+        </div>
+        <div class="col-md-3">
+            <input type="number" step="0.01" class="form-control size-price" 
+                   name="Sizes[${sizeId}].Price" 
+                   placeholder="Price" 
+                   value="${size?.price || ''}" required>
+        </div>
+        <div class="col-md-2">
+            <div class="form-check pt-2">
+                <input class="form-check-input size-default" 
+                       name="Sizes[${sizeId}].IsDefault" 
+                       type="checkbox" 
+                       ${size?.isDefault ? 'checked' : ''}>
+                <label class="form-check-label">Default</label>
+            </div>
+        </div>
+        <div class="col-md-1">
+            <button type="button" class="btn btn-danger btn-sm remove-size">
+                <i class="bi bi-trash"></i>
+            </button>
+        </div>
+    `;
+    
+    container.appendChild(sizeRow);
+    
+    // Add event listener to remove button
+    sizeRow.querySelector('.remove-size').addEventListener('click', function() {
+        container.removeChild(sizeRow);
+    });
+}
+
+
+
 // Load products
 async function loadProducts() {
     try {
@@ -192,31 +261,35 @@ async function loadProducts() {
         const tableBody = document.getElementById('productsTableBody');
         tableBody.innerHTML = '';
         
-        products.forEach(product => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-                <td>${product.id}</td>
-                <td>
-                    ${product.imageUrl ? `<img src="${product.imageUrl}" alt="${currentLanguage === 'ar' ? product.nameAr : product.name}" style="max-height: 50px; margin-right: 10px;">` : ''}
-                    ${currentLanguage === 'ar' ? product.nameAr : product.name}
-                </td>
-                <td>${product.price.toFixed(2)}</td>
-                <td>${currentLanguage === 'ar' ? (product.categoryNameAr || 'N/A') : (product.categoryName || 'N/A')}</td>
-                <td>${product.isAvailable ? 
-                    `<span class="badge bg-success">${currentLanguage === 'ar' ? 'متوفر' : 'Available'}</span>` : 
-                    `<span class="badge bg-danger">${currentLanguage === 'ar' ? 'غير متوفر' : 'Unavailable'}</span>`}
-                </td>
-                <td>
-                    <button class="btn btn-sm btn-primary edit-product" data-id="${product.id}">
-                        ${currentLanguage === 'ar' ? 'تعديل' : 'Edit'}
-                    </button>
-                    <button class="btn btn-sm btn-danger delete-product" data-id="${product.id}">
-                        ${currentLanguage === 'ar' ? 'حذف' : 'Delete'}
-                    </button>
-                </td>
-            `;
-            tableBody.appendChild(row);
-        });
+         products.forEach(product => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+            <td>${product.id}</td>
+            <td>
+                ${product.imageUrl ? `<img src="${product.imageUrl}" alt="${product.name}" style="max-height: 50px; margin-right: 10px;">` : ''}
+                ${product.name}
+            </td>
+            <td>
+                ${product.sizes?.map(size => 
+                    `${size.name}: $${size.price.toFixed(2)}${size.isDefault ? ' (Default)' : ''}`
+                ).join('<br>') || 'No sizes'}
+            </td>
+            <td>${product.categoryName || 'N/A'}</td>
+            <td>${product.isAvailable ? 
+                `<span class="badge bg-success">Available</span>` : 
+                `<span class="badge bg-danger">Unavailable</span>`}
+            </td>
+            <td>
+                <button class="btn btn-sm btn-primary edit-product" data-id="${product.id}">
+                    Edit
+                </button>
+                <button class="btn btn-sm btn-danger delete-product" data-id="${product.id}">
+                    Delete
+                </button>
+            </td>
+        `;
+        tableBody.appendChild(row);
+    });
         
         // Add event listeners to edit/delete buttons
         document.querySelectorAll('.edit-product').forEach(button => {
@@ -439,52 +512,58 @@ function setupProductForms() {
         }
     });
 
-    // Save product
-    document.getElementById('saveProductBtn').addEventListener('click', async function() {
-        const form = document.getElementById('addProductForm');
-        const formData = new FormData();
-        
-        // Add all fields
-        formData.append('Name', document.getElementById('productName').value);
-        formData.append('NameAr', document.getElementById('productNameAr').value);
-        formData.append('Description', document.getElementById('productDescription').value);
-        formData.append('DescriptionAr', document.getElementById('productDescriptionAr').value);
-        formData.append('Price', document.getElementById('productPrice').value);
-        formData.append('CategoryId', document.getElementById('productCategory').value);
-        formData.append('Image', document.getElementById('productImage').files[0]);
-        formData.append('IsAvailable', document.getElementById('productIsAvailable').checked);
-        
-        try {
-            const response = await fetch('https://localhost:7018/api/products', {
-                method: 'POST',
-                headers: getAuthHeaders(false),
-                body: formData
-            });
-            
-            if (!response.ok) {
-                const errorData = await response.json();
-                throw new Error(errorData.message || (currentLanguage === 'ar' ? 
-                    'فشل إضافة المنتج' : 
-                    'Failed to add product'));
-            }
-            
-            // Close modal and refresh products
-            bootstrap.Modal.getInstance(document.getElementById('addProductModal')).hide();
-            form.reset();
-            document.getElementById('productImagePreview').style.display = 'none';
-            loadProducts();
-            loadDashboardStats();
-            
-            showSuccess(currentLanguage === 'ar' ? 
-                'تمت إضافة المنتج بنجاح' : 
-                'Product added successfully');
-        } catch (error) {
-            console.error('Error adding product:', error);
-            showError(currentLanguage === 'ar' ? 
-                'فشل إضافة المنتج: ' + error.message : 
-                'Failed to add product: ' + error.message);
-        }
+    // Update the saveProductBtn event listener
+document.getElementById('saveProductBtn').addEventListener('click', async function() {
+    const form = document.getElementById('addProductForm');
+    const formData = new FormData(form);
+    
+    // Add basic product fields
+    formData.append('Name', document.getElementById('productName').value);
+    formData.append('NameAr', document.getElementById('productNameAr').value);
+    formData.append('Description', document.getElementById('productDescription').value);
+    formData.append('DescriptionAr', document.getElementById('productDescriptionAr').value);
+    formData.append('CategoryId', document.getElementById('productCategory').value);
+    formData.append('Image', document.getElementById('productImage').files[0]);
+    formData.append('IsAvailable', document.getElementById('productIsAvailable').checked);
+    
+    // Collect sizes data
+    const sizeRows = document.querySelectorAll('#productSizesContainer .size-row');
+    sizeRows.forEach((row, index) => {
+        formData.append(`Sizes[${index}].Name`, row.querySelector('.size-name').value);
+        formData.append(`Sizes[${index}].NameAr`, row.querySelector('.size-name-ar').value);
+        formData.append(`Sizes[${index}].Price`, row.querySelector('.size-price').value);
+        formData.append(`Sizes[${index}].IsDefault`, row.querySelector('.size-default').checked);
     });
+    
+    try {
+        const response = await fetch('https://localhost:7018/api/products', {
+            method: 'POST',
+            headers: {
+                'Authorization': `Bearer ${localStorage.getItem('adminToken')}`
+            },
+            body: formData
+        });
+        
+        if (!response.ok) {
+            const errorData = await response.json();
+            throw new Error(errorData.message || 'Failed to add product');
+        }
+        
+        // Close modal and refresh products
+        bootstrap.Modal.getInstance(document.getElementById('addProductModal')).hide();
+        form.reset();
+        document.getElementById('productImagePreview').style.display = 'none';
+        document.getElementById('productSizesContainer').innerHTML = '';
+        loadProducts();
+        loadDashboardStats();
+        
+        showSuccess('Product added successfully');
+    } catch (error) {
+        console.error('Error adding product:', error);
+        showError('Failed to add product: ' + error.message);
+    }
+});
+
     
     // Image preview for edit product
     document.getElementById('editProductImage').addEventListener('change', function() {
@@ -500,7 +579,7 @@ function setupProductForms() {
     });
 }
 
-// Edit product
+// Update editProduct function
 async function editProduct(productId) {
     try {
         const response = await fetch(`https://localhost:7018/api/products/${productId}`, {
@@ -508,20 +587,17 @@ async function editProduct(productId) {
         });
         
         if (!response.ok) {
-            throw new Error(currentLanguage === 'ar' ? 
-                'فشل تحميل بيانات المنتج' : 
-                'Failed to load product details');
+            throw new Error('Failed to load product details');
         }
         
         const product = await response.json();
         
-        // Populate form
+        // Populate basic product fields
         document.getElementById('editProductId').value = product.id;
         document.getElementById('editProductName').value = product.name;
         document.getElementById('editProductNameAr').value = product.nameAr || '';
         document.getElementById('editProductDescription').value = product.description;
         document.getElementById('editProductDescriptionAr').value = product.descriptionAr || '';
-        document.getElementById('editProductPrice').value = product.price;
         document.getElementById('editProductCategory').value = product.categoryId;
         document.getElementById('editProductIsAvailable').checked = product.isAvailable;
         
@@ -533,62 +609,76 @@ async function editProduct(productId) {
             imagePreview.style.display = 'none';
         }
         
+        // Clear existing sizes and add current ones
+        const sizesContainer = document.getElementById('editProductSizesContainer');
+        sizesContainer.innerHTML = '';
+        
+        if (product.sizes && product.sizes.length > 0) {
+            product.sizes.forEach(size => {
+                addSizeRow('editProductSizesContainer', size);
+            });
+        }
+        
         // Show modal
         const modal = new bootstrap.Modal(document.getElementById('editProductModal'));
         modal.show();
         
         // Setup update button
-        document.getElementById('updateProductBtn').onclick = async function() {
-            const formData = new FormData();
-            
-            formData.append('Name', document.getElementById('editProductName').value);
-            formData.append('NameAr', document.getElementById('editProductNameAr').value);
-            formData.append('Description', document.getElementById('editProductDescription').value);
-            formData.append('DescriptionAr', document.getElementById('editProductDescriptionAr').value);
-            formData.append('Price', document.getElementById('editProductPrice').value);
-            formData.append('CategoryId', document.getElementById('editProductCategory').value);
-            formData.append('IsAvailable', document.getElementById('editProductIsAvailable').checked);
-            
-            // Only append image if a new one was selected
-            const imageFile = document.getElementById('editProductImage').files[0];
-            if (imageFile) {
-                formData.append('Image', imageFile);
-            }
-            
-            try {
-                const updateResponse = await fetch(`https://localhost:7018/api/products/${productId}`, {
-                    method: 'PUT',
-                    headers: getAuthHeaders(false),
-                    body: formData
-                });
-                
-                if (!updateResponse.ok) {
-                    const errorData = await updateResponse.json();
-                    throw new Error(errorData.message || (currentLanguage === 'ar' ? 
-                        'فشل تحديث المنتج' : 
-                        'Failed to update product'));
-                }
-                
-                // Close modal and refresh products
-                modal.hide();
-                loadProducts();
-                loadDashboardStats();
-                
-                showSuccess(currentLanguage === 'ar' ? 
-                    'تم تحديث المنتج بنجاح' : 
-                    'Product updated successfully');
-            } catch (error) {
-                console.error('Error updating product:', error);
-                showError(currentLanguage === 'ar' ? 
-                    'فشل تحديث المنتج: ' + error.message : 
-                    'Failed to update product: ' + error.message);
-            }
-        };
+        // Update the edit product functionality
+document.getElementById('updateProductBtn').onclick = async function() {
+    const formData = new FormData();
+    
+    formData.append('Name', document.getElementById('editProductName').value);
+    formData.append('NameAr', document.getElementById('editProductNameAr').value);
+    formData.append('Description', document.getElementById('editProductDescription').value);
+    formData.append('DescriptionAr', document.getElementById('editProductDescriptionAr').value);
+    formData.append('CategoryId', document.getElementById('editProductCategory').value);
+    formData.append('IsAvailable', document.getElementById('editProductIsAvailable').checked);
+    
+    // Only append image if a new one was selected
+    const imageFile = document.getElementById('editProductImage').files[0];
+    if (imageFile) {
+        formData.append('Image', imageFile);
+    }
+    
+    // Collect sizes data
+    const sizeRows = document.querySelectorAll('#editProductSizesContainer .size-row');
+    sizeRows.forEach((row, index) => {
+        formData.append(`Sizes[${index}].Name`, row.querySelector('.size-name').value);
+        formData.append(`Sizes[${index}].NameAr`, row.querySelector('.size-name-ar').value);
+        formData.append(`Sizes[${index}].Price`, row.querySelector('.size-price').value);
+        formData.append(`Sizes[${index}].IsDefault`, row.querySelector('.size-default').checked);
+    });
+    
+    try {
+        const productId = document.getElementById('editProductId').value;
+        const updateResponse = await fetch(`https://localhost:7018/api/products/${productId}`, {
+            method: 'PUT',
+            headers: {
+                'Authorization': `Bearer ${localStorage.getItem('adminToken')}`
+            },
+            body: formData
+        });
+        
+        if (!updateResponse.ok) {
+            const errorData = await updateResponse.json();
+            throw new Error(errorData.message || 'Failed to update product');
+        }
+        
+        // Close modal and refresh products
+        bootstrap.Modal.getInstance(document.getElementById('editProductModal')).hide();
+        loadProducts();
+        loadDashboardStats();
+        
+        showSuccess('Product updated successfully');
+    } catch (error) {
+        console.error('Error updating product:', error);
+        showError('Failed to update product: ' + error.message);
+    }
+};
     } catch (error) {
         console.error('Error loading product for edit:', error);
-        showError(currentLanguage === 'ar' ? 
-            'خطأ في تحميل المنتج للتعديل' : 
-            'Error loading product for editing');
+        showError('Error loading product for editing');
     }
 }
 
