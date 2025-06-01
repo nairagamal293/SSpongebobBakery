@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\uploads\\categories\\14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\categories\\3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png"
-    },
-    {
       "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
       "PackagePath": "staticwebassets\\uploads\\categories\\51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg"
     },
@@ -33,6 +29,10 @@
       "PackagePath": "staticwebassets\\uploads\\categories\\download (2).jpeg"
     },
     {
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\categories\\f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png"
+    },
+    {
       "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png",
       "PackagePath": "staticwebassets\\uploads\\products\\0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png"
     },
@@ -45,32 +45,16 @@
       "PackagePath": "staticwebassets\\uploads\\products\\0fc1e73f-c6b6-4772-97c5-b9256f201723_A plate of savory chicken pot pie, isolated on a white background, royalty free stock ph.jpeg"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png"
-    },
-    {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\2bca7a1e-ec72-49d0-80be-b1305a86b98d_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\2bca7a1e-ec72-49d0-80be-b1305a86b98d_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png"
-    },
-    {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\3453e41f-edf1-4a88-9ca4-7732351ebc73_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\3453e41f-edf1-4a88-9ca4-7732351ebc73_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png"
-    },
-    {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png"
-    },
-    {
       "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\3e06e939-b1dc-4742-aae6-12ea66ca27f1_Shepherd_s_Pie_-_MimisCooking_com-removebg-preview.png",
       "PackagePath": "staticwebassets\\uploads\\products\\3e06e939-b1dc-4742-aae6-12ea66ca27f1_Shepherd_s_Pie_-_MimisCooking_com-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\4e4e7319-20ce-42d3-b634-1b55f5494ded_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\4e4e7319-20ce-42d3-b634-1b55f5494ded_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\597ecc6b-b9b0-4a3e-9f27-305ae40562b9_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\597ecc6b-b9b0-4a3e-9f27-305ae40562b9_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png"
     },
     {
       "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png",
@@ -81,40 +65,44 @@
       "PackagePath": "staticwebassets\\uploads\\products\\76bd6014-decf-4eea-9c8d-bf4b1091a25c_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\9f066e50-71ee-4034-ac13-746f64492862_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\9f066e50-71ee-4034-ac13-746f64492862_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\a3c37d38-8a6b-44e0-b15d-accfc7446d40_2.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\a3c37d38-8a6b-44e0-b15d-accfc7446d40_2.png"
     },
     {
       "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\a4b9b008-7f98-4f9a-a1e2-54c2403cadf4_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png",
       "PackagePath": "staticwebassets\\uploads\\products\\a4b9b008-7f98-4f9a-a1e2-54c2403cadf4_Delicious_Apple_Pie_with_Lattice_Crust_-_High-Quality_Transparent_AI_Image-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\a6b903e3-34f3-493f-8634-6a6f2f89fef6_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\a6b903e3-34f3-493f-8634-6a6f2f89fef6_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\b1089454-bc8a-41e1-af91-af4d42d9e6f8_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\b1089454-bc8a-41e1-af91-af4d42d9e6f8_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\ab5c2f4d-07b6-4e6a-ad43-d815e7db5b98_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\ab5c2f4d-07b6-4e6a-ad43-d815e7db5b98_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png"
     },
     {
       "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png",
       "PackagePath": "staticwebassets\\uploads\\products\\b198fd35-b2c2-4bf2-8625-4f45ab5dd9f7_Pizza_Calzone_European_Cuisine_Italian_Cuisine_Pepperoni_PNG_-_Free_Download-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\bcab3d92-4220-44c6-bd28-695901d0b6b1_Tea-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bcab3d92-4220-44c6-bd28-695901d0b6b1_Tea-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png"
     },
     {
       "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png",
       "PackagePath": "staticwebassets\\uploads\\products\\e84c3ab5-19a7-4df1-a88f-973f069b4721_Margarita_Pizza_Margherita_Italian_Cuisine_Tomato_PNG_-_Free_Download-removebg-preview.png"
     },
     {
-      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png",
-      "PackagePath": "staticwebassets\\uploads\\products\\fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png"
+      "Id": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\wwwroot\\uploads\\products\\f1b49c17-21f4-4e2a-9286-6a05a5d251df_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\f1b49c17-21f4-4e2a-9286-6a05a5d251df_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpongPopBakery.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

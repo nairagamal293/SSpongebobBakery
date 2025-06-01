@@ -167,88 +167,6 @@
       ]
     },
     {
-      "Route": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.kxspsxcnf4.png",
-      "AssetFile": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "262422"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 08:57:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kxspsxcnf4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
-      "AssetFile": "uploads/categories/3742d968-5f82-4be9-b440-33b545f0aab8_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "262422"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 08:57:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
-        }
-      ]
-    },
-    {
       "Route": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).2owo4btag5.jpeg",
       "AssetFile": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
       "Selectors": [],
@@ -659,6 +577,88 @@
       ]
     },
     {
+      "Route": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).kxspsxcnf4.png",
+      "AssetFile": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 08:56:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxspsxcnf4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png",
+      "AssetFile": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 08:56:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png",
       "AssetFile": "uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png",
       "Selectors": [],
@@ -905,334 +905,6 @@
       ]
     },
     {
-      "Route": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png",
-      "AssetFile": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "184421"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:34:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.zi617rt2i9.png",
-      "AssetFile": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "184421"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:34:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zi617rt2i9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/236a43ed-8ccd-4a58-89da-4ca5737dd80d_Tea-removebg-preview.png"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/2bca7a1e-ec72-49d0-80be-b1305a86b98d_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.9gm78l4816.png",
-      "AssetFile": "uploads/products/2bca7a1e-ec72-49d0-80be-b1305a86b98d_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "118656"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 13:56:39 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9gm78l4816"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/2bca7a1e-ec72-49d0-80be-b1305a86b98d_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/2bca7a1e-ec72-49d0-80be-b1305a86b98d_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
-      "AssetFile": "uploads/products/2bca7a1e-ec72-49d0-80be-b1305a86b98d_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "118656"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 13:56:39 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/3453e41f-edf1-4a88-9ca4-7732351ebc73_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
-      "AssetFile": "uploads/products/3453e41f-edf1-4a88-9ca4-7732351ebc73_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "355990"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 12:47:29 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/3453e41f-edf1-4a88-9ca4-7732351ebc73_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.ud1o63m7jx.png",
-      "AssetFile": "uploads/products/3453e41f-edf1-4a88-9ca4-7732351ebc73_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "355990"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 12:47:29 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ud1o63m7jx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/3453e41f-edf1-4a88-9ca4-7732351ebc73_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.erp64g0u0a.png",
-      "AssetFile": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203440"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:35:03 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "erp64g0u0a"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
-      "AssetFile": "uploads/products/3d4a6316-82a7-4e95-a515-cd14730958c2_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203440"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:35:03 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A="
-        }
-      ]
-    },
-    {
       "Route": "uploads/products/3e06e939-b1dc-4742-aae6-12ea66ca27f1_Shepherd_s_Pie_-_MimisCooking_com-removebg-preview.png",
       "AssetFile": "uploads/products/3e06e939-b1dc-4742-aae6-12ea66ca27f1_Shepherd_s_Pie_-_MimisCooking_com-removebg-preview.png",
       "Selectors": [],
@@ -1315,6 +987,88 @@
       ]
     },
     {
+      "Route": "uploads/products/4e4e7319-20ce-42d3-b634-1b55f5494ded_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.1imbphcj48.png",
+      "AssetFile": "uploads/products/4e4e7319-20ce-42d3-b634-1b55f5494ded_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 07:11:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1imbphcj48"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/4e4e7319-20ce-42d3-b634-1b55f5494ded_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/4e4e7319-20ce-42d3-b634-1b55f5494ded_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
+      "AssetFile": "uploads/products/4e4e7319-20ce-42d3-b634-1b55f5494ded_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 07:11:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby+SNHgc="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.azjh3bojka.png",
       "AssetFile": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
       "Selectors": [],
@@ -1393,88 +1147,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/597ecc6b-b9b0-4a3e-9f27-305ae40562b9_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
-      "AssetFile": "uploads/products/597ecc6b-b9b0-4a3e-9f27-305ae40562b9_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220716"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QAILWO/fLBx0E2Vwo1jEgdjVLGYOelNIhbY0rnzA+TY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 11:15:44 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QAILWO/fLBx0E2Vwo1jEgdjVLGYOelNIhbY0rnzA+TY="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/597ecc6b-b9b0-4a3e-9f27-305ae40562b9_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.w024j7frwh.png",
-      "AssetFile": "uploads/products/597ecc6b-b9b0-4a3e-9f27-305ae40562b9_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220716"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QAILWO/fLBx0E2Vwo1jEgdjVLGYOelNIhbY0rnzA+TY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 11:15:44 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w024j7frwh"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QAILWO/fLBx0E2Vwo1jEgdjVLGYOelNIhbY0rnzA+TY="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/597ecc6b-b9b0-4a3e-9f27-305ae40562b9_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png"
         }
       ]
     },
@@ -1643,8 +1315,8 @@
       ]
     },
     {
-      "Route": "uploads/products/9f066e50-71ee-4034-ac13-746f64492862_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
-      "AssetFile": "uploads/products/9f066e50-71ee-4034-ac13-746f64492862_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
+      "Route": "uploads/products/85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
+      "AssetFile": "uploads/products/85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1669,7 +1341,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 12:46:02 GMT"
+          "Value": "Sun, 01 Jun 2025 06:34:37 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1680,8 +1352,8 @@
       ]
     },
     {
-      "Route": "uploads/products/9f066e50-71ee-4034-ac13-746f64492862_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.w024j7frwh.png",
-      "AssetFile": "uploads/products/9f066e50-71ee-4034-ac13-746f64492862_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
+      "Route": "uploads/products/85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.w024j7frwh.png",
+      "AssetFile": "uploads/products/85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1706,7 +1378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 12:46:02 GMT"
+          "Value": "Sun, 01 Jun 2025 06:34:37 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1720,7 +1392,89 @@
         },
         {
           "Name": "label",
-          "Value": "uploads/products/9f066e50-71ee-4034-ac13-746f64492862_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png"
+          "Value": "uploads/products/85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a3c37d38-8a6b-44e0-b15d-accfc7446d40_2.png",
+      "AssetFile": "uploads/products/a3c37d38-8a6b-44e0-b15d-accfc7446d40_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 08:29:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a3c37d38-8a6b-44e0-b15d-accfc7446d40_2.ud1o63m7jx.png",
+      "AssetFile": "uploads/products/a3c37d38-8a6b-44e0-b15d-accfc7446d40_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 08:29:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ud1o63m7jx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/a3c37d38-8a6b-44e0-b15d-accfc7446d40_2.png"
         }
       ]
     },
@@ -1807,8 +1561,8 @@
       ]
     },
     {
-      "Route": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.9gm78l4816.png",
-      "AssetFile": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
+      "Route": "uploads/products/a6b903e3-34f3-493f-8634-6a6f2f89fef6_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.erp64g0u0a.png",
+      "AssetFile": "uploads/products/a6b903e3-34f3-493f-8634-6a6f2f89fef6_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1821,7 +1575,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "118656"
+          "Value": "203440"
         },
         {
           "Name": "Content-Type",
@@ -1829,31 +1583,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
+          "Value": "\"6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:35:55 GMT"
+          "Value": "Sun, 01 Jun 2025 07:12:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9gm78l4816"
+          "Value": "erp64g0u0a"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
+          "Value": "sha256-6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A="
         },
         {
           "Name": "label",
-          "Value": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png"
+          "Value": "uploads/products/a6b903e3-34f3-493f-8634-6a6f2f89fef6_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
-      "AssetFile": "uploads/products/a56e35ab-0ee1-4f3f-a334-b22a18b4aa11_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
+      "Route": "uploads/products/a6b903e3-34f3-493f-8634-6a6f2f89fef6_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
+      "AssetFile": "uploads/products/a6b903e3-34f3-493f-8634-6a6f2f89fef6_Iced_lemon_tea_on_plastic_takeaway_glass_isolated_on_white_background___Premium_AI-generated_image-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1866,7 +1620,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "118656"
+          "Value": "203440"
         },
         {
           "Name": "Content-Type",
@@ -1874,23 +1628,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
+          "Value": "\"6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:35:55 GMT"
+          "Value": "Sun, 01 Jun 2025 07:12:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
+          "Value": "sha256-6gvJn+fEn3J04OWO00vjfGMLVca7pNDGVnGEUPmvf+A="
         }
       ]
     },
     {
-      "Route": "uploads/products/b1089454-bc8a-41e1-af91-af4d42d9e6f8_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
-      "AssetFile": "uploads/products/b1089454-bc8a-41e1-af91-af4d42d9e6f8_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
+      "Route": "uploads/products/ab5c2f4d-07b6-4e6a-ad43-d815e7db5b98_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
+      "AssetFile": "uploads/products/ab5c2f4d-07b6-4e6a-ad43-d815e7db5b98_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1903,7 +1657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "355990"
+          "Value": "404036"
         },
         {
           "Name": "Content-Type",
@@ -1911,23 +1665,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA=\""
+          "Value": "\"1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 12:47:07 GMT"
+          "Value": "Sun, 01 Jun 2025 06:53:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA="
+          "Value": "sha256-1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU="
         }
       ]
     },
     {
-      "Route": "uploads/products/b1089454-bc8a-41e1-af91-af4d42d9e6f8_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.ud1o63m7jx.png",
-      "AssetFile": "uploads/products/b1089454-bc8a-41e1-af91-af4d42d9e6f8_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png",
+      "Route": "uploads/products/ab5c2f4d-07b6-4e6a-ad43-d815e7db5b98_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.tmq0yvvjkr.png",
+      "AssetFile": "uploads/products/ab5c2f4d-07b6-4e6a-ad43-d815e7db5b98_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1940,7 +1694,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "355990"
+          "Value": "404036"
         },
         {
           "Name": "Content-Type",
@@ -1948,25 +1702,25 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA=\""
+          "Value": "\"1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 12:47:07 GMT"
+          "Value": "Sun, 01 Jun 2025 06:53:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ud1o63m7jx"
+          "Value": "tmq0yvvjkr"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/hCfZVyb5juBQTNrYUTyCtONdpVDfJI8DKuhMVk1ShA="
+          "Value": "sha256-1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU="
         },
         {
           "Name": "label",
-          "Value": "uploads/products/b1089454-bc8a-41e1-af91-af4d42d9e6f8_Download_free_png_of_PNG_Exploding_seafood_pizza_explosion_cheese_photography__by_Bambamfefe_about_background__png__explosion__wooden__and_pizza_slices_15525890-removebg-preview.png"
+          "Value": "uploads/products/ab5c2f4d-07b6-4e6a-ad43-d815e7db5b98_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png"
         }
       ]
     },
@@ -2053,6 +1807,88 @@
       ]
     },
     {
+      "Route": "uploads/products/bcab3d92-4220-44c6-bd28-695901d0b6b1_Tea-removebg-preview.png",
+      "AssetFile": "uploads/products/bcab3d92-4220-44c6-bd28-695901d0b6b1_Tea-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 07:11:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/bcab3d92-4220-44c6-bd28-695901d0b6b1_Tea-removebg-preview.zi617rt2i9.png",
+      "AssetFile": "uploads/products/bcab3d92-4220-44c6-bd28-695901d0b6b1_Tea-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 07:11:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zi617rt2i9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9qa7sJZ3k0oZyYe9xNUW83eFFbVbg6L8EJQwaYMfBM="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/bcab3d92-4220-44c6-bd28-695901d0b6b1_Tea-removebg-preview.png"
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.kxspsxcnf4.png",
       "AssetFile": "uploads/products/d0aa6808-8b48-4836-9783-f47384cc9950_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview.png",
       "Selectors": [],
@@ -2131,88 +1967,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
-      "AssetFile": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "404036"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 09:16:35 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.tmq0yvvjkr.png",
-      "AssetFile": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "404036"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 09:16:35 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tmq0yvvjkr"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1XTDg/QmTocx874tQGz5A6mlHd/I0CAL9A3Ie++qZnU="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/e4e9aeef-609f-4522-b7df-359de60a79b3_Pizza_Vários_Sabores_PNG_Transparente-removebg-preview.png"
         }
       ]
     },
@@ -2299,8 +2053,8 @@
       ]
     },
     {
-      "Route": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.ioqaqvpop9.png",
-      "AssetFile": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png",
+      "Route": "uploads/products/f1b49c17-21f4-4e2a-9286-6a05a5d251df_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.9gm78l4816.png",
+      "AssetFile": "uploads/products/f1b49c17-21f4-4e2a-9286-6a05a5d251df_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2313,7 +2067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "133147"
+          "Value": "118656"
         },
         {
           "Name": "Content-Type",
@@ -2321,31 +2075,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM=\""
+          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:17:34 GMT"
+          "Value": "Sun, 01 Jun 2025 07:10:31 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ioqaqvpop9"
+          "Value": "9gm78l4816"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM="
+          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
         },
         {
           "Name": "label",
-          "Value": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png"
+          "Value": "uploads/products/f1b49c17-21f4-4e2a-9286-6a05a5d251df_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png",
-      "AssetFile": "uploads/products/fd7cfee9-ccb6-4f47-930d-e3420d97378a_Cappuccino_en_3D_con_fondo_blanco__estilo_realista-removebg-preview.png",
+      "Route": "uploads/products/f1b49c17-21f4-4e2a-9286-6a05a5d251df_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
+      "AssetFile": "uploads/products/f1b49c17-21f4-4e2a-9286-6a05a5d251df_Download_White_cups_of_hot_aromatic_espresso_coffee_on_transparent_background_AI_Generative_for_free-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2358,7 +2112,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "133147"
+          "Value": "118656"
         },
         {
           "Name": "Content-Type",
@@ -2366,17 +2120,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM=\""
+          "Value": "\"aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:17:34 GMT"
+          "Value": "Sun, 01 Jun 2025 07:10:31 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bpSYNsGL4XP4nzmCyyvTdR0hjBAh8igWzYwVfQsHjJM="
+          "Value": "sha256-aSmJkZ+htzBfnLYGrGQGrCPaUKA6rhYjJJubebVSyl4="
         }
       ]
     }

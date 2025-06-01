@@ -579,108 +579,7 @@ document.getElementById('saveProductBtn').addEventListener('click', async functi
     });
 }
 
-// Update editProduct function
-async function editProduct(productId) {
-    try {
-        const response = await fetch(`https://localhost:7018/api/products/${productId}`, {
-            headers: getAuthHeaders()
-        });
-        
-        if (!response.ok) {
-            throw new Error('Failed to load product details');
-        }
-        
-        const product = await response.json();
-        
-        // Populate basic product fields
-        document.getElementById('editProductId').value = product.id;
-        document.getElementById('editProductName').value = product.name;
-        document.getElementById('editProductNameAr').value = product.nameAr || '';
-        document.getElementById('editProductDescription').value = product.description;
-        document.getElementById('editProductDescriptionAr').value = product.descriptionAr || '';
-        document.getElementById('editProductCategory').value = product.categoryId;
-        document.getElementById('editProductIsAvailable').checked = product.isAvailable;
-        
-        // Show image preview
-        const imagePreview = document.getElementById('editProductImagePreview');
-        if (product.imageUrl) {
-            imagePreview.src = product.imageUrl;
-        } else {
-            imagePreview.style.display = 'none';
-        }
-        
-        // Clear existing sizes and add current ones
-        const sizesContainer = document.getElementById('editProductSizesContainer');
-        sizesContainer.innerHTML = '';
-        
-        if (product.sizes && product.sizes.length > 0) {
-            product.sizes.forEach(size => {
-                addSizeRow('editProductSizesContainer', size);
-            });
-        }
-        
-        // Show modal
-        const modal = new bootstrap.Modal(document.getElementById('editProductModal'));
-        modal.show();
-        
-        // Setup update button
-        // Update the edit product functionality
-document.getElementById('updateProductBtn').onclick = async function() {
-    const formData = new FormData();
-    
-    formData.append('Name', document.getElementById('editProductName').value);
-    formData.append('NameAr', document.getElementById('editProductNameAr').value);
-    formData.append('Description', document.getElementById('editProductDescription').value);
-    formData.append('DescriptionAr', document.getElementById('editProductDescriptionAr').value);
-    formData.append('CategoryId', document.getElementById('editProductCategory').value);
-    formData.append('IsAvailable', document.getElementById('editProductIsAvailable').checked);
-    
-    // Only append image if a new one was selected
-    const imageFile = document.getElementById('editProductImage').files[0];
-    if (imageFile) {
-        formData.append('Image', imageFile);
-    }
-    
-    // Collect sizes data
-    const sizeRows = document.querySelectorAll('#editProductSizesContainer .size-row');
-    sizeRows.forEach((row, index) => {
-        formData.append(`Sizes[${index}].Name`, row.querySelector('.size-name').value);
-        formData.append(`Sizes[${index}].NameAr`, row.querySelector('.size-name-ar').value);
-        formData.append(`Sizes[${index}].Price`, row.querySelector('.size-price').value);
-        formData.append(`Sizes[${index}].IsDefault`, row.querySelector('.size-default').checked);
-    });
-    
-    try {
-        const productId = document.getElementById('editProductId').value;
-        const updateResponse = await fetch(`https://localhost:7018/api/products/${productId}`, {
-            method: 'PUT',
-            headers: {
-                'Authorization': `Bearer ${localStorage.getItem('adminToken')}`
-            },
-            body: formData
-        });
-        
-        if (!updateResponse.ok) {
-            const errorData = await updateResponse.json();
-            throw new Error(errorData.message || 'Failed to update product');
-        }
-        
-        // Close modal and refresh products
-        bootstrap.Modal.getInstance(document.getElementById('editProductModal')).hide();
-        loadProducts();
-        loadDashboardStats();
-        
-        showSuccess('Product updated successfully');
-    } catch (error) {
-        console.error('Error updating product:', error);
-        showError('Failed to update product: ' + error.message);
-    }
-};
-    } catch (error) {
-        console.error('Error loading product for edit:', error);
-        showError('Error loading product for editing');
-    }
-}
+
 
 // Setup category forms
 function setupCategoryForms() {
@@ -757,7 +656,116 @@ function setupCategoryForms() {
 }
 
 
-// Edit category
+// Edit Product
+async function editProduct(productId) {
+    try {
+        const response = await fetch(`https://localhost:7018/api/products/${productId}`, {
+            headers: getAuthHeaders()
+        });
+        
+        if (!response.ok) {
+            throw new Error('Failed to fetch product details');
+        }
+        
+        const product = await response.json();
+        
+        // Populate form fields
+        document.getElementById('editProductId').value = product.id;
+        document.getElementById('editProductName').value = product.name;
+        document.getElementById('editProductNameAr').value = product.nameAr;
+        document.getElementById('editProductDescription').value = product.description;
+        document.getElementById('editProductDescriptionAr').value = product.descriptionAr;
+        document.getElementById('editProductCategory').value = product.categoryId;
+        document.getElementById('editProductIsAvailable').checked = product.isAvailable;
+        
+        // Show current image
+        const preview = document.getElementById('editProductImagePreview');
+        if (product.imageUrl) {
+            preview.src = product.imageUrl;
+            preview.style.display = 'block';
+        } else {
+            preview.style.display = 'none';
+        }
+        
+        // Clear and repopulate sizes
+        const sizesContainer = document.getElementById('editProductSizesContainer');
+        sizesContainer.innerHTML = '';
+        
+        product.sizes.forEach(size => {
+            addSizeRow('editProductSizesContainer', size);
+        });
+        
+        // Show modal
+        const modal = new bootstrap.Modal(document.getElementById('editProductModal'));
+        modal.show();
+    } catch (error) {
+        console.error('Error loading product for edit:', error);
+        showError('Failed to load product for editing');
+    }
+}
+
+// Update Product
+document.getElementById('updateProductBtn').addEventListener('click', async function() {
+    const productId = document.getElementById('editProductId').value;
+    const formData = new FormData();
+    
+    // Add basic product fields
+    formData.append('Name', document.getElementById('editProductName').value);
+    formData.append('NameAr', document.getElementById('editProductNameAr').value);
+    formData.append('Description', document.getElementById('editProductDescription').value);
+    formData.append('DescriptionAr', document.getElementById('editProductDescriptionAr').value);
+    formData.append('CategoryId', document.getElementById('editProductCategory').value);
+    formData.append('IsAvailable', document.getElementById('editProductIsAvailable').checked);
+    
+    // Handle image - only if changed
+    const imageInput = document.getElementById('editProductImage');
+    if (imageInput.files.length > 0) {
+        formData.append('Image', imageInput.files[0]);
+    }
+    
+    // Collect sizes data
+    const sizeRows = document.querySelectorAll('#editProductSizesContainer .size-row');
+    sizeRows.forEach((row, index) => {
+        formData.append(`Sizes[${index}].Name`, row.querySelector('.size-name').value);
+        formData.append(`Sizes[${index}].NameAr`, row.querySelector('.size-name-ar').value);
+        formData.append(`Sizes[${index}].Price`, row.querySelector('.size-price').value);
+        formData.append(`Sizes[${index}].IsDefault`, row.querySelector('.size-default').checked);
+    });
+    
+    try {
+        const response = await fetch(`https://localhost:7018/api/products/${productId}`, {
+            method: 'PUT',
+            headers: {
+                'Authorization': `Bearer ${localStorage.getItem('adminToken')}`
+            },
+            body: formData
+        });
+        
+        if (!response.ok) {
+            const errorData = await response.json();
+            throw new Error(errorData.message || 'Failed to update product');
+        }
+        
+        // Close modal and refresh products
+        bootstrap.Modal.getInstance(document.getElementById('editProductModal')).hide();
+        loadProducts();
+        
+        showSuccess('Product updated successfully');
+    } catch (error) {
+        console.error('Error updating product:', error);
+        showError('Failed to update product: ' + error.message);
+        
+        // Additional debug logging
+        console.log('Request payload:', {
+            productId,
+            name: document.getElementById('editProductName').value,
+            nameAr: document.getElementById('editProductNameAr').value,
+            // Add other fields as needed
+        });
+    }
+});
+
+// Edit Category
 async function editCategory(categoryId) {
     try {
         const response = await fetch(`https://localhost:7018/api/categories/${categoryId}`, {
@@ -765,84 +773,80 @@ async function editCategory(categoryId) {
         });
         
         if (!response.ok) {
-            throw new Error(currentLanguage === 'ar' ? 
-                'فشل تحميل بيانات الفئة' : 
-                'Failed to load category details');
+            throw new Error('Failed to fetch category details');
         }
         
         const category = await response.json();
         
-        // Populate form
+        // Populate form fields
         document.getElementById('editCategoryId').value = category.id;
         document.getElementById('editCategoryName').value = category.name;
-        document.getElementById('editCategoryNameAr').value = category.nameAr || '';
+        document.getElementById('editCategoryNameAr').value = category.nameAr;
         document.getElementById('editCategoryDescription').value = category.description;
-        document.getElementById('editCategoryDescriptionAr').value = category.descriptionAr || '';
+        document.getElementById('editCategoryDescriptionAr').value = category.descriptionAr;
         
-        // Show image preview
-        const imagePreview = document.getElementById('editCategoryImagePreview');
+        // Show current image
+        const preview = document.getElementById('editCategoryImagePreview');
         if (category.imageUrl) {
-            imagePreview.src = category.imageUrl;
-            imagePreview.style.display = 'block';
+            preview.src = category.imageUrl;
+            preview.style.display = 'block';
         } else {
-            imagePreview.style.display = 'none';
+            preview.style.display = 'none';
         }
         
         // Show modal
         const modal = new bootstrap.Modal(document.getElementById('editCategoryModal'));
         modal.show();
-        
-        // Setup update button
-        document.getElementById('updateCategoryBtn').onclick = async function() {
-            const formData = new FormData();
-            
-            formData.append('Name', document.getElementById('editCategoryName').value);
-            formData.append('NameAr', document.getElementById('editCategoryNameAr').value);
-            formData.append('Description', document.getElementById('editCategoryDescription').value);
-            formData.append('DescriptionAr', document.getElementById('editCategoryDescriptionAr').value);
-            
-            // Only append image if a new one was selected
-            const imageFile = document.getElementById('editCategoryImage').files[0];
-            if (imageFile) {
-                formData.append('Image', imageFile);
-            }
-            
-            try {
-                const updateResponse = await fetch(`https://localhost:7018/api/categories/${categoryId}`, {
-                    method: 'PUT',
-                    headers: getAuthHeaders(false),
-                    body: formData
-                });
-                
-                if (!updateResponse.ok) {
-                    const errorData = await updateResponse.json();
-                    throw new Error(errorData.message || (currentLanguage === 'ar' ? 
-                        'فشل تحديث الفئة' : 
-                        'Failed to update category'));
-                }
-                
-                // Close modal and refresh categories
-                modal.hide();
-                loadCategories();
-                loadDashboardStats();
-                
-                showSuccess(currentLanguage === 'ar' ? 
-                    'تم تحديث الفئة بنجاح' : 
-                    'Category updated successfully');
-            } catch (error) {
-                console.error('Error updating category:', error);
-                showError(currentLanguage === 'ar' ? 
-                    'فشل تحديث الفئة: ' + error.message : 
-                    'Failed to update category: ' + error.message);
-            }
-        };
     } catch (error) {
         console.error('Error loading category for edit:', error);
-        showError(currentLanguage === 'ar' ? 
-            'خطأ في تحميل الفئة للتعديل' : 
-            'Error loading category for editing');
+        showError('Failed to load category for editing');
     }
 }
+
+// Update Category
+document.getElementById('updateCategoryBtn').addEventListener('click', async function() {
+    const categoryId = document.getElementById('editCategoryId').value;
+    const formData = new FormData();
+    
+    // Add all fields
+    formData.append('Name', document.getElementById('editCategoryName').value);
+    formData.append('NameAr', document.getElementById('editCategoryNameAr').value);
+    formData.append('Description', document.getElementById('editCategoryDescription').value);
+    formData.append('DescriptionAr', document.getElementById('editCategoryDescriptionAr').value);
+    
+    // Only append image if a new one was selected
+    const imageInput = document.getElementById('editCategoryImage');
+    if (imageInput.files.length > 0) {
+        formData.append('Image', imageInput.files[0]);
+    } else {
+        // Append null or empty value explicitly if needed
+        formData.append('Image', ''); // Some APIs might need this
+    }
+    
+    try {
+        const response = await fetch(`https://localhost:7018/api/categories/${categoryId}`, {
+            method: 'PUT',
+            headers: {
+                'Authorization': `Bearer ${localStorage.getItem('adminToken')}`
+            },
+            body: formData
+        });
+        
+        if (!response.ok) {
+            const errorData = await response.json();
+            throw new Error(errorData.message || 'Failed to update category');
+        }
+        
+        // Close modal and refresh categories
+        bootstrap.Modal.getInstance(document.getElementById('editCategoryModal')).hide();
+        loadCategories();
+        
+        showSuccess('Category updated successfully');
+    } catch (error) {
+        console.error('Error updating category:', error);
+        showError('Failed to update category: ' + error.message);
+    }
+});
 
 // Delete category
 async function deleteCategory(categoryId) {

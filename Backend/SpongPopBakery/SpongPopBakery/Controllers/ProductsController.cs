@@ -185,19 +185,20 @@ namespace SpongPopBakery.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, [FromForm] ProductCreateDto productUpdateDto)
+        public async Task<IActionResult> UpdateProduct(int id, [FromForm] ProductUpdateDto productUpdateDto)
         {
             var product = await _productService.GetProductById(id);
             if (product == null)
                 return NotFound();
 
-            // Update image if a new one was uploaded
+            // Only update image if a new one was provided
             if (productUpdateDto.Image != null)
             {
                 _imageService.DeleteImage(product.ImagePath);
                 product.ImagePath = await _imageService.SaveImage(productUpdateDto.Image, "products");
             }
 
+            // Update other fields
             product.Name = productUpdateDto.Name;
             product.NameAr = productUpdateDto.NameAr;
             product.Description = productUpdateDto.Description;
@@ -206,35 +207,22 @@ namespace SpongPopBakery.Controllers
             product.IsAvailable = productUpdateDto.IsAvailable;
             product.UpdatedAt = DateTime.UtcNow;
 
-            // Replace product sizes with new ones
-            product.Sizes = productUpdateDto.Sizes.Select(s => new ProductSize
-            {
-                Name = s.Name,
-                NameAr = s.NameAr,
-                Price = s.Price,
-                IsDefault = s.IsDefault
-            }).ToList();
-
-            // Ensure default size if missing
-            if (!product.Sizes.Any())
+            // Clear existing sizes and add new ones
+            product.Sizes.Clear();
+            foreach (var sizeDto in productUpdateDto.Sizes)
             {
                 product.Sizes.Add(new ProductSize
                 {
-                    Name = "Standard",
-                    NameAr = "قياسي",
-                    Price = 0,
-                    IsDefault = true
+                    Name = sizeDto.Name,
+                    NameAr = sizeDto.NameAr,
+                    Price = sizeDto.Price,
+                    IsDefault = sizeDto.IsDefault
                 });
-            }
-            else if (product.Sizes.Count == 1)
-            {
-                product.Sizes.First().IsDefault = true;
             }
 
             await _productService.UpdateProduct(product);
             return NoContent();
         }
-
 
         [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]

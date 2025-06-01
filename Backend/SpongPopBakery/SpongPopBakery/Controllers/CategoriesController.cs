@@ -84,15 +84,16 @@ namespace SpongPopBakery.Controllers
                 ImageUrl = _imageService.GetImageUrl(category.ImagePath)
             });
         }
-
         [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateCategory(int id, [FromForm] CategoryCreateDto categoryUpdateDto)
+        public async Task<IActionResult> UpdateCategory(int id, [FromForm] CategoryUpdateDto categoryUpdateDto)
+
         {
             var category = await _categoryService.GetCategoryById(id);
             if (category == null)
                 return NotFound();
 
+            // Only update image if a new one was provided
             if (categoryUpdateDto.Image != null)
             {
                 _imageService.DeleteImage(category.ImagePath);
@@ -102,7 +103,7 @@ namespace SpongPopBakery.Controllers
             category.Name = categoryUpdateDto.Name;
             category.NameAr = categoryUpdateDto.NameAr;
             category.Description = categoryUpdateDto.Description;
-            categoryUpdateDto.DescriptionAr = categoryUpdateDto.DescriptionAr;
+            category.DescriptionAr = categoryUpdateDto.DescriptionAr;
             category.UpdatedAt = DateTime.UtcNow;
 
             await _categoryService.UpdateCategory(category);
