@@ -756,9 +756,17 @@
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="mb-5">
-          <iframe style="width: 100%; height: 400px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen=""></iframe>
-        </div><!-- End Google Maps -->
+       <div class="mb-5">
+  <iframe 
+    style="width: 100%; height: 400px;" 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.1130797777575!2d39.79479591541669!3d21.507319785725073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c1bda9aeeb03ed%3A0x99d06f8e779c8d0a!2z2YXYr9mK2YbYqSDYp9mE2YXZhtiv2KfZhiDYo9mI2KfZhCDZhdiq2KjYsdmK2Kk!5e0!3m2!1sar!2ssa!4v1717431878011!5m2!1sar!2ssa" 
+    frameborder="0" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div><!-- End Google Maps -->
+
 
         <div class="row gy-4">
 
@@ -767,7 +775,7 @@
               <i class="icon bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h3>Address</h3>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>السعودية ، مكة المكرمة ، حي العمرة الجديدة</p>
               </div>
             </div>
           </div><!-- End Info Item -->
@@ -787,7 +795,7 @@
               <i class="icon bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email Us</h3>
-                <p>info@example.com</p>
+                <p>spongebobBakery@gmail.com</p>
               </div>
             </div>
           </div><!-- End Info Item -->
@@ -804,7 +812,7 @@
 
         </div>
 
-        <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="600">
+     <form method="post" class="php-email-form">
           <div class="row gy-4">
 
             <div class="col-md-6">
@@ -848,9 +856,9 @@
           <i class="bi bi-geo-alt icon"></i>
           <div class="address">
             <h4>Address</h4>
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
-            <p></p>
+            <p> حي العمرة الجديدة</p>
+            <p>السعودية ، مكة المكرمة</p>
+      
           </div>
 
         </div>
@@ -861,7 +869,7 @@
             <h4>Contact</h4>
             <p>
               <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
-              <strong>Email:</strong> <span>info@example.com</span><br>
+              <strong>Email:</strong> <span>spongebobBakery@gmail.com</span><br>
             </p>
           </div>
         </div>
@@ -880,10 +888,10 @@
         <div class="col-lg-3 col-md-6">
           <h4>Follow Us</h4>
           <div class="social-links d-flex">
-            <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
+
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+<a href="#" class="snapchat"><i class="bi bi-snapchat"></i></a>
           </div>
         </div>
 
@@ -911,7 +919,7 @@
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
@@ -1241,6 +1249,59 @@ function updateMenuLanguage() {
         }
     }
 }
+
+
+// Replace the existing form handler with this
+document.querySelector('.php-email-form').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const form = e.target;
+    const loading = form.querySelector('.loading');
+    const errorMessage = form.querySelector('.error-message');
+    const sentMessage = form.querySelector('.sent-message');
+    
+    // Show loading
+    loading.style.display = 'block';
+    errorMessage.style.display = 'none';
+    sentMessage.style.display = 'none';
+    
+    try {
+        const formData = {
+            name: form.querySelector('[name="name"]').value,
+            email: form.querySelector('[name="email"]').value,
+            subject: form.querySelector('[name="subject"]').value,
+            message: form.querySelector('[name="message"]').value
+        };
+        
+        const response = await fetch('https://localhost:7018/api/Contact/send', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData)
+        });
+        
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        
+        // Show success message
+        loading.style.display = 'none';
+        errorMessage.style.display = 'none';
+        sentMessage.style.display = 'block';
+        
+        // Reset form
+        form.reset();
+        
+    } catch (error) {
+        loading.style.display = 'none';
+        errorMessage.style.display = 'block';
+        sentMessage.style.display = 'none';
+        errorMessage.textContent = 'Error sending message. Please try again later.';
+        console.error('Error:', error);
+    }
+});
+
 
 function showErrorToast(message) {
     // Simple error notification - you can replace with a proper toast library

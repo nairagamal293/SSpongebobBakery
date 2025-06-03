@@ -151,6 +151,64 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SpongPopBakery.Controllers.ContactController",
+    "Method": "GetAllMessages",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpongPopBakery.Controllers.ContactController",
+    "Method": "DeleteMessage",
+    "RelativePath": "api/Contact/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpongPopBakery.Controllers.ContactController",
+    "Method": "MarkAsRead",
+    "RelativePath": "api/Contact/{id}/mark-as-read",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpongPopBakery.Controllers.ContactController",
+    "Method": "SendMessage",
+    "RelativePath": "api/Contact/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactDto",
+        "Type": "SpongPopBakery.DTOs.ContactMessageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SpongPopBakery.Controllers.ProductsController",
     "Method": "GetAllProducts",
     "RelativePath": "api/Products",
