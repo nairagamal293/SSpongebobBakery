@@ -1,17 +1,5 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.6m3n0mo448.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6m3n0mo448"},{"Name":"integrity","Value":"sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_\u0645\u0646\u0627\u0642\u064A\u0634_\u0645\u0634\u0643\u0644\u0629-removebg-preview.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"329663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 12:05:59 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"329663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 12:05:59 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.1imbphcj48.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -24,17 +12,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby\u002BSNHgc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"168499"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby\u002BSNHgc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 12:23:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).2owo4btag5.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.a372o5lzk2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2owo4btag5"},{"Name":"integrity","Value":"sha256-nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"111924"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 09:18:32 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a372o5lzk2"},{"Name":"integrity","Value":"sha256-ZuyYUifmOLR5nxJ2OLZARuM\u002B1Jpb6o8WIwUPBKnIeUo="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"391781"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZuyYUifmOLR5nxJ2OLZARuM\u002B1Jpb6o8WIwUPBKnIeUo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:26:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"111924"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 09:18:32 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZuyYUifmOLR5nxJ2OLZARuM\u002B1Jpb6o8WIwUPBKnIeUo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"391781"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZuyYUifmOLR5nxJ2OLZARuM\u002B1Jpb6o8WIwUPBKnIeUo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:26:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.6m3n0mo448.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6m3n0mo448"},{"Name":"integrity","Value":"sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_\u0645\u0646\u0627\u0642\u064A\u0634_\u0645\u0634\u0643\u0644\u0629-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"329663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:35:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"329663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:35:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.6ljip0pobi.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\8b2b9902-5dbf-409e-b13f-d61e1492dfe4_Classic_Cheese_and_Onion_Pie_Recipe___A_Comforting_British_Favourite_with_Buttery_Pastry-removebg-preview.png'))</AssetFile>
@@ -84,17 +84,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mw061gk7wl"},{"Name":"integrity","Value":"sha256-6tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/download (2).jpeg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"130333"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226tTSjjGDk97Mh7KPJt/m7v92UCOtXtL0IG6hD0AfROQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 08:33:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).kxspsxcnf4.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.6m3n0mo448.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kxspsxcnf4"},{"Name":"integrity","Value":"sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"262422"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 08:56:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6m3n0mo448"},{"Name":"integrity","Value":"sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_\u0645\u0646\u0627\u0642\u064A\u0634_\u0645\u0634\u0643\u0644\u0629-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"329663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:35:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"262422"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 08:56:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"329663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:35:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0316329e-1168-4e62-943b-d3518361010f_The_Best_Mississippi_Mud_Pie_Recipe_Ever-removebg-preview.png'))</AssetFile>
@@ -156,18 +156,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby\u002BSNHgc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"168499"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022V5xaCty/fC/m65EO6Yyw9zHaXswH8CA7HSMby\u002BSNHgc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 07:11:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.azjh3bojka.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"azjh3bojka"},{"Name":"integrity","Value":"sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_\u0645\u0646\u0627\u0642\u064A\u0634_\u0632\u0639\u062A\u0631__Thyme_flat_bread-removebg-preview.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"459292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 13:52:09 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"459292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 13:52:09 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.dvlmhyo9sd.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -191,6 +179,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"320904"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 13:54:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.azjh3bojka.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"azjh3bojka"},{"Name":"integrity","Value":"sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="},{"Name":"label","Value":"_content/SpongPopBakery/uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_\u0645\u0646\u0627\u0642\u064A\u0634_\u0632\u0639\u062A\u0631__Thyme_flat_bread-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"459292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:37:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"459292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:37:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SpongPopBakery/uploads/products/85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\85189e48-398a-4dae-af8e-5486f6754e74_Burger_in_a_white_background___Premium_AI-generated_PSD-removebg-preview.png'))</AssetFile>

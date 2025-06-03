@@ -3,88 +3,6 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.6m3n0mo448.png",
-      "AssetFile": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "329663"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:05:59 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6m3n0mo448"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png",
-      "AssetFile": "uploads/categories/089aa902-defe-4c52-ac5e-cb1191193dc8_مناقيش_مشكلة-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "329663"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 12:05:59 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
-        }
-      ]
-    },
-    {
       "Route": "uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.1imbphcj48.png",
       "AssetFile": "uploads/categories/14837ceb-c6a0-42ee-92cd-f4a474ecfc54_20+_Free_download_Caffettino_cup_PNG_isolated_on_transparent_background__Free_for_use___download_-removebg-preview.png",
       "Selectors": [],
@@ -167,8 +85,8 @@
       ]
     },
     {
-      "Route": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).2owo4btag5.jpeg",
-      "AssetFile": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
+      "Route": "uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.a372o5lzk2.png",
+      "AssetFile": "uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -181,39 +99,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111924"
+          "Value": "391781"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw=\""
+          "Value": "\"ZuyYUifmOLR5nxJ2OLZARuM+1Jpb6o8WIwUPBKnIeUo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 09:18:32 GMT"
+          "Value": "Mon, 02 Jun 2025 09:26:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2owo4btag5"
+          "Value": "a372o5lzk2"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw="
+          "Value": "sha256-ZuyYUifmOLR5nxJ2OLZARuM+1Jpb6o8WIwUPBKnIeUo="
         },
         {
           "Name": "label",
-          "Value": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg"
+          "Value": "uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
-      "AssetFile": "uploads/categories/51c56c59-17d4-46ec-af64-b9ee96b01e81_Delicious Pizza (1).jpeg",
+      "Route": "uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png",
+      "AssetFile": "uploads/categories/7288944a-9984-4192-9c69-e614a2df8cff_Delicious_Pizza__1_-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -226,25 +144,107 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111924"
+          "Value": "391781"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw=\""
+          "Value": "\"ZuyYUifmOLR5nxJ2OLZARuM+1Jpb6o8WIwUPBKnIeUo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 31 May 2025 09:18:32 GMT"
+          "Value": "Mon, 02 Jun 2025 09:26:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nmRL3UL4IFWXAfs0Ng2DSLYgpwZMeRdvnFB5XxCaHLw="
+          "Value": "sha256-ZuyYUifmOLR5nxJ2OLZARuM+1Jpb6o8WIwUPBKnIeUo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.6m3n0mo448.png",
+      "AssetFile": "uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 09:35:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6m3n0mo448"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.png",
+      "AssetFile": "uploads/categories/7a02a961-8be0-4823-92dd-baec38b8aaf7_مناقيش_مشكلة-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 09:35:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
         }
       ]
     },
@@ -577,8 +577,8 @@
       ]
     },
     {
-      "Route": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).kxspsxcnf4.png",
-      "AssetFile": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png",
+      "Route": "uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.6m3n0mo448.png",
+      "AssetFile": "uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -591,7 +591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "262422"
+          "Value": "329663"
         },
         {
           "Name": "Content-Type",
@@ -599,31 +599,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
+          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 08:56:23 GMT"
+          "Value": "Mon, 02 Jun 2025 09:35:56 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kxspsxcnf4"
+          "Value": "6m3n0mo448"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
+          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
         },
         {
           "Name": "label",
-          "Value": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png"
+          "Value": "uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.png"
         }
       ]
     },
     {
-      "Route": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png",
-      "AssetFile": "uploads/categories/f005ae3b-005e-4ce3-b6d2-a14107ca8dac_Delicious_burger_with_many_ingredients_isolated_on_white_background_Tasty_cheeseburger_splash_sauce-removebg-preview (1).png",
+      "Route": "uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.png",
+      "AssetFile": "uploads/categories/f9398c65-ad0d-46ad-b784-dbdb3484745f_مناقيش_مشكلة-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -636,7 +636,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "262422"
+          "Value": "329663"
         },
         {
           "Name": "Content-Type",
@@ -644,17 +644,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA=\""
+          "Value": "\"8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 08:56:23 GMT"
+          "Value": "Mon, 02 Jun 2025 09:35:56 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SGHFbj9YEYWVM2oGFIc9znLi35sW9lwqz1mjTwISqhA="
+          "Value": "sha256-8vWuKFlVGYTQ9fBHlnBHdUD65lYxhLL3HA9APLTNCCc="
         }
       ]
     },
@@ -1069,88 +1069,6 @@
       ]
     },
     {
-      "Route": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.azjh3bojka.png",
-      "AssetFile": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "459292"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 13:52:09 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "azjh3bojka"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png"
-        }
-      ]
-    },
-    {
-      "Route": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
-      "AssetFile": "uploads/products/4f12148a-5fe2-41bc-9c74-ab5ce35b512b_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "459292"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 13:52:09 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="
-        }
-      ]
-    },
-    {
       "Route": "uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.dvlmhyo9sd.png",
       "AssetFile": "uploads/products/5a29e7b6-f3e0-424a-ba69-d7d5c3bf5cfc_Pizza_on_white_background-removebg-preview.png",
       "Selectors": [],
@@ -1311,6 +1229,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-SbfhlIO8SDoa5T5wkerxh5W8Y5M85AAfgwAEtD7P0Vs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.azjh3bojka.png",
+      "AssetFile": "uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 09:37:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "azjh3bojka"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
+      "AssetFile": "uploads/products/84dab02c-6281-4659-8617-58c9730d6ba5_مناقيش_زعتر__Thyme_flat_bread-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 09:37:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlEdSXlyFU7Htt1rf798T7Kma0SQrmPZriI51u7byS8="
         }
       ]
     },
