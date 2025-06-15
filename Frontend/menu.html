@@ -14,7 +14,7 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Amatic+SC:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Amatic+SC:wght@400;700&family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -27,55 +27,120 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
   <style>
-    /* Menu Page Specific Styles */
+    :root {
+      --primary-color: #7B3F00;
+      --secondary-color: #FFD166;
+      --accent-color: #7B3F00;
+      --dark-color: #000000;
+      --light-color: #FCFCFC;
+      --text-color: #333333;
+      --text-light: #777777;
+      
+    }
+    
+    body {
+      font-family: 'Poppins', sans-serif;
+      color: var(--text-color);
+      background-color: #FFF9F5;
+    }
+    
     .menu-header {
       text-align: center;
-      margin-bottom: 40px;
+      margin-bottom: 50px;
+      padding: 30px 0;
+     
+      border-radius: 15px;
+      box-shadow: 0 10px 30px rgba(179, 107, 255, 0.2);
+      color: rgb(0, 0, 0);
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .menu-header::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path fill="rgba(255,255,255,0.1)" d="M0,0 L100,0 L100,100 L0,100 Z"></path></svg>');
+      opacity: 0.1;
     }
     
     .menu-header h1 {
       font-family: 'Amatic SC', cursive;
-      font-size: 3.5rem;
-      color: #7B3F00;
-      margin-bottom: 20px;
+      font-size: 4rem;
+      font-weight: 700;
+      margin-bottom: 15px;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .menu-header p {
+      font-size: 1.2rem;
+      opacity: 0.9;
     }
     
     .menu-category {
-      margin-bottom: 50px;
+      margin-bottom: 60px;
       background: white;
       border-radius: 15px;
-      padding: 30px;
-      box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+      padding: 40px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+      border-top: 5px solid var(--primary-color);
+      transition: transform 0.3s ease;
+    }
+    
+    .menu-category:hover {
+      transform: translateY(-5px);
     }
     
     .menu-category h2 {
       font-family: 'Amatic SC', cursive;
-      font-size: 2.5rem;
-      color: #7B3F00;
-      border-bottom: 2px dashed #7B3F00;
-      padding-bottom: 10px;
-      margin-bottom: 25px;
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: var(--dark-color);
+      margin-bottom: 30px;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      position: relative;
+      padding-bottom: 15px;
+    }
+    
+    .menu-category h2::after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100px;
+      height: 3px;
+      background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+      border-radius: 3px;
     }
 
     .menu-category h2 .english-name {
       text-align: left;
+      color: var(--dark-color);
     }
 
     .menu-category h2 .arabic-name {
       text-align: right;
-      font-family: 'Tahoma', sans-serif;
+      font-family: 'Tajawal', sans-serif;
       direction: rtl;
+      color: var(--dark-color);
     }
     
     .menu-item {
-      margin-bottom: 25px;
-      padding-bottom: 15px;
-      border-bottom: 1px dotted #ddd;
+      margin-bottom: 30px;
+      padding-bottom: 20px;
+      border-bottom: 1px dashed #eee;
       display: flex;
       flex-wrap: wrap;
+      transition: all 0.3s ease;
+    }
+    
+    .menu-item:hover {
+      border-bottom-color: var(--accent-color);
     }
     
     .menu-item:last-child {
@@ -94,9 +159,15 @@
       width: 120px;
       height: 120px;
       object-fit: cover;
-      border-radius: 8px;
-      margin-right: 20px;
+      border-radius: 12px;
+      margin-right: 25px;
       flex-shrink: 0;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+    
+    .menu-item:hover .menu-item-image {
+      transform: scale(1.05);
     }
     
     .menu-item-info {
@@ -105,36 +176,41 @@
     
     .menu-item-name {
       font-weight: 600;
-      font-size: 1.1rem;
-      margin-bottom: 5px;
+      font-size: 1.3rem;
+      margin-bottom: 8px;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      color: var(--dark-color);
     }
     
     .menu-item-name-ar {
       font-weight: 700;
-      color: #000000;
-      font-family: 'Amiri', serif;
+      color: var(--dark-color);
+      font-family: 'Tajawal', sans-serif;
       direction: rtl;
+      font-size: 1.2rem;
+      margin-top: 5px;
     }
     
     .menu-item-description {
-      color: #666;
-      font-size: 0.9rem;
-      margin-bottom: 5px;
+      color: var(--text-light);
+      font-size: 0.95rem;
+      margin-bottom: 8px;
+      line-height: 1.5;
     }
     
     .menu-item-description-ar {
-      color: #666;
-      font-size: 0.85rem;
-      font-family: 'Tahoma', sans-serif;
+      color: var(--text-light);
+      font-size: 0.9rem;
+      font-family: 'Tajawal', sans-serif;
       direction: rtl;
+      line-height: 1.6;
     }
     
     .menu-item-sizes {
-      margin-left: 20px;
-      min-width: 200px;
+      margin-left: 25px;
+      min-width: 220px;
       flex: 1;
       display: flex;
       flex-direction: column;
@@ -144,15 +220,17 @@
     .size-item {
       display: flex;
       justify-content: space-between;
-      padding: 8px 12px;
-      margin-bottom: 8px;
-      border-radius: 6px;
+      padding: 10px 15px;
+      margin-bottom: 10px;
+      border-radius: 8px;
       background: #f9f9f9;
       transition: all 0.3s ease;
+      border-left: 3px solid transparent;
     }
     
     .size-item:hover {
       background: #f0f0f0;
+      transform: translateX(5px);
     }
     
     .size-item:last-child {
@@ -161,39 +239,45 @@
     
     .size-name {
       font-weight: 500;
+      color: var(--text-color);
     }
     
     .size-name-ar {
-      font-family: 'Tahoma', sans-serif;
+      font-family: 'Tajawal', sans-serif;
       direction: rtl;
+      font-size: 0.9rem;
+      color: var(--text-light);
+      margin-top: 3px;
     }
     
     .size-price {
-      font-weight: 600;
-      color: #7B3F00;
+      font-weight: 700;
+      color: var(--primary-color);
+      font-size: 1.1rem;
     }
     
     .default-size {
-      background-color: rgba(123, 63, 0, 0.08);
-      border-left: 3px solid #7B3F00;
+      background-color: rgba(6, 214, 160, 0.08);
+      border-left: 3px solid var(--accent-color);
     }
     
     .availability-badge {
       display: inline-block;
-      padding: 2px 8px;
-      border-radius: 4px;
+      padding: 4px 10px;
+      border-radius: 20px;
       font-size: 0.75rem;
       margin-left: 10px;
+      font-weight: 600;
     }
     
     .available {
-      background-color: #d4edda;
-      color: #155724;
+      background-color: rgba(6, 214, 160, 0.2);
+      color: var(--accent-color);
     }
     
     .unavailable {
-      background-color: #f8d7da;
-      color: #721c24;
+      background-color: rgba(255, 107, 107, 0.2);
+      color: var(--primary-color);
     }
     
     /* For English text */
@@ -206,7 +290,31 @@
     .arabic-name, .arabic-desc, .menu-item-name-ar, .menu-item-description-ar {
       text-align: right;
       direction: rtl;
-      font-family: 'Tahoma', sans-serif;
+      font-family: 'Tajawal', sans-serif;
+    }
+
+    /* Floating action button for print */
+    .print-btn {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: var(--primary-color);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 5px 20px rgba(255, 107, 107, 0.4);
+      z-index: 99;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .print-btn:hover {
+      transform: scale(1.1);
+      background: var(--dark-color);
     }
 
     @media print {
@@ -218,6 +326,7 @@
         background-color: white !important;
         padding: 0 !important;
         margin: 0 !important;
+        font-size: 12pt;
       }
       
       .menu-page {
@@ -228,17 +337,28 @@
         page-break-inside: avoid;
         break-inside: avoid;
         box-shadow: none !important;
+        border: 1px solid #eee !important;
+      }
+      
+      .menu-header {
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
       }
     }
 
     @media (max-width: 768px) {
+      .menu-header h1 {
+        font-size: 2.8rem;
+      }
+      
       .menu-item-header {
         flex-direction: column;
       }
       
       .menu-item-image {
         margin-right: 0;
-        margin-bottom: 15px;
+        margin-bottom: 20px;
         width: 100%;
         height: auto;
         max-height: 200px;
@@ -246,8 +366,18 @@
       
       .menu-item-sizes {
         margin-left: 0;
-        margin-top: 15px;
+        margin-top: 20px;
         min-width: 100%;
+      }
+      
+      .menu-category h2 {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      
+      .menu-category h2 .arabic-name {
+        margin-top: 10px;
+        align-self: flex-end;
       }
     }
   </style>
@@ -258,8 +388,8 @@
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container position-relative d-flex align-items-center justify-content-between">
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
-  <img src="assets/img/logo.png" alt="Spongebob Bakery Logo" class="img-fluid" style="max-height: 40px;">
-</a>
+        <img src="assets/img/logo.png" alt="Spongebob Bakery Logo" class="img-fluid" style="max-height: 40px;">
+      </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
@@ -286,7 +416,7 @@
       <div class="container">
         <div class="menu-header" data-aos="fade-up">
           <h1>Spongebob Bakery Menu</h1>
-          <p>All our delicious offerings in one place</p>
+          <p>Discover our delicious selection of baked goods</p>
         </div>
 
         <div id="menuContainer">
@@ -301,44 +431,74 @@
     </section>
   </main>
 
-  <footer id="footer" class="footer dark-background no-print">
+  <div class="print-btn no-print" title="Print Menu">
+    <i class="bi bi-printer-fill fs-4"></i>
+  </div>
+
+  <footer id="footer" class="footer dark-background">
+
     <div class="container">
       <div class="row gy-3">
-        <div class="col-lg-4 col-md-6 d-flex">
+        <div class="col-lg-3 col-md-6 d-flex">
           <i class="bi bi-geo-alt icon"></i>
           <div class="address">
             <h4>Address</h4>
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
+            <p> حي العمرة الجديدة</p>
+            <p>السعودية ، مكة المكرمة</p>
+      
           </div>
+
         </div>
 
-        <div class="col-lg-4 col-md-6 d-flex">
+        <div class="col-lg-3 col-md-6 d-flex">
           <i class="bi bi-telephone icon"></i>
           <div>
             <h4>Contact</h4>
             <p>
               <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
-              <strong>Email:</strong> <span>info@example.com</span>
+              <strong>Email:</strong> <span>spongebobBakery@gmail.com</span><br>
             </p>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6">
-          <h4>Opening Hours</h4>
-          <p>
-            <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
-            <strong>Sunday</strong>: <span>Closed</span>
-          </p>
+        <div class="col-lg-3 col-md-6 d-flex">
+          <i class="bi bi-clock icon"></i>
+          <div>
+            <h4>Opening Hours</h4>
+            <p>
+              <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
+              <strong>Sunday</strong>: <span>Closed</span>
+            </p>
+          </div>
         </div>
+
+        <div class="col-lg-3 col-md-6">
+          <h4>Follow Us</h4>
+          <div class="social-links d-flex">
+
+            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+<a href="#" class="snapchat"><i class="bi bi-snapchat"></i></a>
+          </div>
+        </div>
+
       </div>
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Spongebob Bakery</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Yummy</strong> <span>All Rights Reserved</span></p>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href="https://themewagon.com">ThemeWagon</a>
+      </div>
     </div>
+
   </footer>
 
+  
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
@@ -351,6 +511,11 @@
     document.addEventListener('DOMContentLoaded', function() {
       // Load menu data
       loadFullMenu();
+      
+      // Add print button functionality
+      document.querySelector('.print-btn').addEventListener('click', function() {
+        window.print();
+      });
     });
 
     async function loadFullMenu() {
