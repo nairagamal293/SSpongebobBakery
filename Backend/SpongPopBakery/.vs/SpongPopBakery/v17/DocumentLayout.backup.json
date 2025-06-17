@@ -182,8 +182,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\appsettings.json",
+              "RelativeDocumentMoniker": "SpongPopBakery\\appsettings.json",
+              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\appsettings.json",
+              "RelativeToolTip": "SpongPopBakery\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T07:05:31.652Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -255,19 +268,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T06:56:43.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\appsettings.json",
-              "RelativeDocumentMoniker": "SpongPopBakery\\appsettings.json",
-              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\appsettings.json",
-              "RelativeToolTip": "SpongPopBakery\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-28T07:05:31.652Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

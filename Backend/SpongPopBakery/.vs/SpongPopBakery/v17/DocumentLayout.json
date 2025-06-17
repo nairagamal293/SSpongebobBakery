@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\utilities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\utilities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\utilities\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\utilities\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\data\\bakerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\data\\bakerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\utilities\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\utilities\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\utilities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\utilities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\dtos\\contactmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\dtos\\contactmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\data\\bakerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|solutionrelative:spongpopbakery\\data\\bakerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E916F74-26BE-4F8A-B301-1B2D5929C65D}|SpongPopBakery\\SpongPopBakery.csproj|d:\\naira\\spongpop\\backend\\spongpopbakery\\spongpopbakery\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,32 +182,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\appsettings.json",
               "RelativeDocumentMoniker": "SpongPopBakery\\appsettings.json",
               "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\appsettings.json",
               "RelativeToolTip": "SpongPopBakery\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-28T07:05:31.652Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppException.cs",
-              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Utilities\\AppException.cs",
-              "RelativeDocumentMoniker": "SpongPopBakery\\Utilities\\AppException.cs",
-              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Utilities\\AppException.cs",
-              "RelativeToolTip": "SpongPopBakery\\Utilities\\AppException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:50:48.491Z"
             },
             {
               "$type": "Document",
@@ -217,37 +205,14 @@
               "RelativeDocumentMoniker": "SpongPopBakery\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Controllers\\AccountController.cs",
               "RelativeToolTip": "SpongPopBakery\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:44:34.32Z"
+              "WhenOpened": "2025-05-28T06:44:34.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "SpongPopBakery\\DTOs\\UserLoginDto.cs",
-              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserLoginDto.cs",
-              "RelativeToolTip": "SpongPopBakery\\DTOs\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:40:15.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRegisterDto.cs",
-              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserRegisterDto.cs",
-              "RelativeDocumentMoniker": "SpongPopBakery\\DTOs\\UserRegisterDto.cs",
-              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserRegisterDto.cs",
-              "RelativeToolTip": "SpongPopBakery\\DTOs\\UserRegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:40:57.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "SpongPopBakery\\DTOs\\UserDto.cs",
@@ -259,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Program.cs",
               "RelativeDocumentMoniker": "SpongPopBakery\\Program.cs",
@@ -271,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Models\\User.cs",
               "RelativeDocumentMoniker": "SpongPopBakery\\Models\\User.cs",
@@ -283,19 +248,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "BakeryDbContext.cs",
+              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Data\\BakeryDbContext.cs",
+              "RelativeDocumentMoniker": "SpongPopBakery\\Data\\BakeryDbContext.cs",
+              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Data\\BakeryDbContext.cs",
+              "RelativeToolTip": "SpongPopBakery\\Data\\BakeryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:49:59.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Utilities\\AppException.cs",
+              "RelativeDocumentMoniker": "SpongPopBakery\\Utilities\\AppException.cs",
+              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Utilities\\AppException.cs",
+              "RelativeToolTip": "SpongPopBakery\\Utilities\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:50:48.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Utilities\\ApiResponse.cs",
               "RelativeDocumentMoniker": "SpongPopBakery\\Utilities\\ApiResponse.cs",
               "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Utilities\\ApiResponse.cs",
               "RelativeToolTip": "SpongPopBakery\\Utilities\\ApiResponse.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:51:18.3Z"
+              "WhenOpened": "2025-05-28T06:51:18.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "SpongPopBakery\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "SpongPopBakery\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:40:57.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "SpongPopBakery\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "SpongPopBakery\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:40:15.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20250603133607_AddContactMessages.cs",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Migrations\\20250603133607_AddContactMessages.cs",
               "RelativeDocumentMoniker": "SpongPopBakery\\Migrations\\20250603133607_AddContactMessages.cs",
@@ -319,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ContactMessageDto.cs",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\DTOs\\ContactMessageDto.cs",
               "RelativeDocumentMoniker": "SpongPopBakery\\DTOs\\ContactMessageDto.cs",
@@ -331,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ContactController.cs",
               "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "SpongPopBakery\\Controllers\\ContactController.cs",
@@ -364,18 +380,6 @@
               "ViewState": "AgIAAC8AAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T06:49:16.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BakeryDbContext.cs",
-              "DocumentMoniker": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Data\\BakeryDbContext.cs",
-              "RelativeDocumentMoniker": "SpongPopBakery\\Data\\BakeryDbContext.cs",
-              "ToolTip": "D:\\Naira\\SpongPop\\Backend\\SpongPopBakery\\SpongPopBakery\\Data\\BakeryDbContext.cs",
-              "RelativeToolTip": "SpongPopBakery\\Data\\BakeryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:49:59.067Z"
             },
             {
               "$type": "Document",

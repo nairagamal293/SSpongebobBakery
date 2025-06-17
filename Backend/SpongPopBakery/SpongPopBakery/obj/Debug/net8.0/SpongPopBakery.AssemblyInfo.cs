@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpongPopBakery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ce20ae1bfc922d7639aed7e0ee041ee090d00e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+864fbf4b942c804cea6bf1dce7545a674ce7e144")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpongPopBakery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpongPopBakery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
